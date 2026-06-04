@@ -1,0 +1,3 @@
+[submodule "RTES-ECEE-5623-mcgaffin"]
+	path = RTES-ECEE-5623-mcgaffin
+	url = git@github.com:mamc3334/RTES-ECEE-5623-mcgaffin.git
