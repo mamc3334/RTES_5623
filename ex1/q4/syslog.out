@@ -1,0 +1,144 @@
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 started on CPU 4
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 started on CPU 4
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: SEQ started on CPU 4
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 1 - RELEASE @ 1.539 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 1 - COMPLETE @ 11.457 ms  (complete 9.92 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 1 - RELEASE @ 11.501 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 2 - RELEASE @ 21.488 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 2 - COMPLETE @ 31.311 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 1 - COMPLETE @ 41.181 ms  (complete 29.68 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 3 - RELEASE @ 41.490 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 3 - COMPLETE @ 51.325 ms  (complete 9.84 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 2 - RELEASE @ 51.515 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 4 - RELEASE @ 61.491 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 4 - COMPLETE @ 71.315 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 2 - COMPLETE @ 81.226 ms  (complete 29.71 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 5 - RELEASE @ 81.487 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 5 - COMPLETE @ 91.321 ms  (complete 9.83 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 6 - RELEASE @ 101.490 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 6 - COMPLETE @ 111.321 ms  (complete 9.83 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 3 - RELEASE @ 111.336 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 7 - RELEASE @ 121.486 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 7 - COMPLETE @ 131.307 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 3 - COMPLETE @ 141.007 ms  (complete 29.67 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 8 - RELEASE @ 141.488 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 8 - COMPLETE @ 151.312 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 4 - RELEASE @ 151.488 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 9 - RELEASE @ 161.489 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 9 - COMPLETE @ 171.314 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 4 - COMPLETE @ 181.182 ms  (complete 29.69 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 10 - RELEASE @ 181.488 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 10 - COMPLETE @ 191.314 ms  (complete 9.83 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 11 - RELEASE @ 201.488 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 11 - COMPLETE @ 211.312 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 5 - RELEASE @ 211.325 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 12 - RELEASE @ 221.485 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 12 - COMPLETE @ 231.309 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 5 - COMPLETE @ 241.003 ms  (complete 29.68 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 13 - RELEASE @ 241.491 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 13 - COMPLETE @ 251.313 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 6 - RELEASE @ 251.488 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 14 - RELEASE @ 261.487 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 14 - COMPLETE @ 271.307 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 6 - COMPLETE @ 281.158 ms  (complete 29.67 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 15 - RELEASE @ 281.487 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 15 - COMPLETE @ 291.311 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 16 - RELEASE @ 301.488 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 16 - COMPLETE @ 311.313 ms  (complete 9.83 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 7 - RELEASE @ 311.342 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 17 - RELEASE @ 321.485 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 17 - COMPLETE @ 331.307 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 7 - COMPLETE @ 341.017 ms  (complete 29.67 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 18 - RELEASE @ 341.488 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 18 - COMPLETE @ 351.311 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 8 - RELEASE @ 351.487 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 19 - RELEASE @ 361.486 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 19 - COMPLETE @ 371.306 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 8 - COMPLETE @ 381.160 ms  (complete 29.67 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 20 - RELEASE @ 381.488 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 20 - COMPLETE @ 391.311 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 21 - RELEASE @ 401.488 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 21 - COMPLETE @ 411.311 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 9 - RELEASE @ 411.324 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 22 - RELEASE @ 421.486 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 22 - COMPLETE @ 431.305 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 9 - COMPLETE @ 440.990 ms  (complete 29.67 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 23 - RELEASE @ 441.488 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 23 - COMPLETE @ 451.310 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 10 - RELEASE @ 451.487 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 24 - RELEASE @ 461.488 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 24 - COMPLETE @ 471.322 ms  (complete 9.83 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 10 - COMPLETE @ 481.177 ms  (complete 29.69 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 25 - RELEASE @ 481.488 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 25 - COMPLETE @ 491.315 ms  (complete 9.83 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 26 - RELEASE @ 501.488 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 26 - COMPLETE @ 511.311 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 11 - RELEASE @ 511.324 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 27 - RELEASE @ 521.486 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 27 - COMPLETE @ 531.307 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 11 - COMPLETE @ 541.003 ms  (complete 29.68 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 28 - RELEASE @ 541.488 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 28 - COMPLETE @ 551.311 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 12 - RELEASE @ 551.488 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 29 - RELEASE @ 561.486 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 29 - COMPLETE @ 571.307 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 12 - COMPLETE @ 581.158 ms  (complete 29.67 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 30 - RELEASE @ 581.488 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 30 - COMPLETE @ 591.312 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 31 - RELEASE @ 601.488 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 31 - COMPLETE @ 611.316 ms  (complete 9.83 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 13 - RELEASE @ 611.330 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 32 - RELEASE @ 621.484 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 32 - COMPLETE @ 631.304 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 13 - COMPLETE @ 640.993 ms  (complete 29.66 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 33 - RELEASE @ 641.488 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 33 - COMPLETE @ 651.314 ms  (complete 9.83 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 14 - RELEASE @ 651.488 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 34 - RELEASE @ 661.487 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 34 - COMPLETE @ 671.308 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 14 - COMPLETE @ 681.158 ms  (complete 29.67 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 35 - RELEASE @ 681.487 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 35 - COMPLETE @ 691.316 ms  (complete 9.83 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 36 - RELEASE @ 701.489 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 36 - COMPLETE @ 711.313 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 15 - RELEASE @ 711.327 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 37 - RELEASE @ 721.485 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 37 - COMPLETE @ 731.313 ms  (complete 9.83 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 15 - COMPLETE @ 741.005 ms  (complete 29.68 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 38 - RELEASE @ 741.488 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 38 - COMPLETE @ 751.312 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 16 - RELEASE @ 751.489 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 39 - RELEASE @ 761.486 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 39 - COMPLETE @ 771.306 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 16 - COMPLETE @ 781.156 ms  (complete 29.67 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 40 - RELEASE @ 781.487 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 40 - COMPLETE @ 791.309 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 41 - RELEASE @ 801.487 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 41 - COMPLETE @ 811.313 ms  (complete 9.83 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 17 - RELEASE @ 811.327 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 42 - RELEASE @ 821.485 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 42 - COMPLETE @ 831.308 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 17 - COMPLETE @ 840.995 ms  (complete 29.67 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 43 - RELEASE @ 841.487 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 43 - COMPLETE @ 851.314 ms  (complete 9.83 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 18 - RELEASE @ 851.493 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 44 - RELEASE @ 861.487 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 44 - COMPLETE @ 871.308 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 18 - COMPLETE @ 881.169 ms  (complete 29.68 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 45 - RELEASE @ 881.489 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 45 - COMPLETE @ 891.311 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 46 - RELEASE @ 901.488 ms
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 46 - COMPLETE @ 911.311 ms  (complete 9.82 after release)
+Jun  5 12:36:03 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 19 - RELEASE @ 911.324 ms
+Jun  5 12:36:04 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 47 - RELEASE @ 921.487 ms
+Jun  5 12:36:04 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 47 - COMPLETE @ 931.306 ms  (complete 9.82 after release)
+Jun  5 12:36:04 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 19 - COMPLETE @ 940.999 ms  (complete 29.68 after release)
+Jun  5 12:36:04 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 48 - RELEASE @ 941.562 ms
+Jun  5 12:36:04 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 48 - COMPLETE @ 951.435 ms  (complete 9.87 after release)
+Jun  5 12:36:04 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 20 - RELEASE @ 951.498 ms
+Jun  5 12:36:04 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 49 - RELEASE @ 961.497 ms
+Jun  5 12:36:04 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 49 - COMPLETE @ 971.340 ms  (complete 9.84 after release)
+Jun  5 12:36:04 jetson-orin-nano ex1_q4d[289649]: F20 - JOB 20 - COMPLETE @ 981.221 ms  (complete 29.72 after release)
+Jun  5 12:36:04 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 50 - RELEASE @ 981.502 ms
+Jun  5 12:36:04 jetson-orin-nano ex1_q4d[289649]: F10 - JOB 50 - COMPLETE @ 991.355 ms  (complete 9.85 after release)
+Jun  5 12:36:04 jetson-orin-nano ex1_q4d[289649]: App timer expired – stopping
