@@ -7,18 +7,21 @@ CFLAGS= -O0 -g -Wall $(INCLUDE_DIRS) $(CDEFS)
 LDFLAGS = -lpthread -lm
 
 HFILES= 
-CFILES= update_complex_state.c
+CFILES= update_complex_state.c priority_inversion_fix.c
 
 SRCS= ${HFILES} ${CFILES}
 OBJS= ${CFILES:.c=.o}
 
-all:	update_complex_state
+all:	update_complex_state priority_inversion_fix
 
 clean:
 	-rm -f *.o *.d
-	-rm -f update_complex_state
+	-rm -f update_complex_state priority_inversion_fix
 
 update_complex_state: update_complex_state.o
+	$(CC) $(CFLAGS) -o $@ $@.o $(LDFLAGS)
+
+priority_inversion_fix: priority_inversion_fix.o
 	$(CC) $(CFLAGS) -o $@ $@.o $(LDFLAGS)
 
 .c.o:
