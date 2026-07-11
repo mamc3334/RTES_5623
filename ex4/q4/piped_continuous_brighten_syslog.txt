@@ -1,0 +1,612 @@
+Jul  7 21:53:52 jetson-orin-nano video_brightener[1736826]: Initializing capture routine loop...
+Jul  7 21:53:52 jetson-orin-nano video_brightener[1736826]: FORCING FORMAT: 640x480 YUYV
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame -7: warm-up ignored
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame -6: warm-up ignored
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame -5: warm-up ignored
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame -4: warm-up ignored
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame -3: warm-up ignored
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame -2: warm-up ignored
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame -1: warm-up ignored
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame 0: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame 1: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: Frame #1 read at 0.048048 - Inst FPS=20.812433 - Avg FPS=20.812433
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame 2: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: Frame #2 read at 0.078560 - Inst FPS=32.773969 - Avg FPS=25.458177
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame 3: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: Frame #3 read at 0.115340 - Inst FPS=27.188977 - Avg FPS=26.010095
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame 4: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: Frame #4 read at 0.149208 - Inst FPS=29.526106 - Avg FPS=26.808184
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame 5: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: Frame #5 read at 0.186983 - Inst FPS=26.472939 - Avg FPS=26.740458
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame 6: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: Frame #6 read at 0.218791 - Inst FPS=31.438357 - Avg FPS=27.423448
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame 7: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: Frame #7 read at 0.250573 - Inst FPS=31.464156 - Avg FPS=27.935964
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame 8: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: Frame #8 read at 0.285482 - Inst FPS=28.645880 - Avg FPS=28.022773
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame 9: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: Frame #9 read at 0.318197 - Inst FPS=30.566998 - Avg FPS=28.284354
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame 10: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: Frame #10 read at 0.354474 - Inst FPS=27.565695 - Avg FPS=28.210806
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame 11: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: Frame #11 read at 0.388004 - Inst FPS=29.823707 - Avg FPS=28.350189
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame 12: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: Frame #12 read at 0.419007 - Inst FPS=32.255766 - Avg FPS=28.639162
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame 13: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: Frame #13 read at 0.450326 - Inst FPS=31.928830 - Avg FPS=28.867954
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame 14: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: Frame #14 read at 0.485494 - Inst FPS=28.435342 - Avg FPS=28.836617
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame 15: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: Frame #15 read at 0.518432 - Inst FPS=30.359978 - Avg FPS=28.933403
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame 16: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: Frame #16 read at 0.554060 - Inst FPS=28.067613 - Avg FPS=28.877729
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame 17: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: Frame #17 read at 0.586753 - Inst FPS=30.587402 - Avg FPS=28.972990
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame 18: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: Frame #18 read at 0.618065 - Inst FPS=31.936628 - Avg FPS=29.123132
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame 19: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: Frame #19 read at 0.655047 - Inst FPS=27.040684 - Avg FPS=29.005565
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame 20: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: Frame #20 read at 0.682939 - Inst FPS=35.852065 - Avg FPS=29.285188
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame 21: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: Frame #21 read at 0.710927 - Inst FPS=35.730272 - Avg FPS=29.538915
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: frame 22: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:53 jetson-orin-nano video_brightener[1736826]: Frame #22 read at 0.752783 - Inst FPS=23.891325 - Avg FPS=29.224898
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 23: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #23 read at 0.785137 - Inst FPS=30.907968 - Avg FPS=29.294255
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 24: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #24 read at 0.817621 - Inst FPS=30.784074 - Avg FPS=29.353446
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 25: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #25 read at 0.853525 - Inst FPS=27.852345 - Avg FPS=29.290302
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 26: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #26 read at 0.886295 - Inst FPS=30.515270 - Avg FPS=29.335594
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 27: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #27 read at 0.919135 - Inst FPS=30.450802 - Avg FPS=29.375440
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 28: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #28 read at 0.953861 - Inst FPS=28.796983 - Avg FPS=29.354381
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 29: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #29 read at 0.985807 - Inst FPS=31.302532 - Avg FPS=29.417513
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 30: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #30 read at 1.017951 - Inst FPS=31.110285 - Avg FPS=29.470965
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 31: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #31 read at 1.054561 - Inst FPS=27.315223 - Avg FPS=29.396128
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 32: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #32 read at 1.086981 - Inst FPS=30.844786 - Avg FPS=29.439335
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 33: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #33 read at 1.121554 - Inst FPS=28.924232 - Avg FPS=29.423457
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 34: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #34 read at 1.154219 - Inst FPS=30.613742 - Avg FPS=29.457143
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 35: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #35 read at 1.186448 - Inst FPS=31.028301 - Avg FPS=29.499822
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 36: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #36 read at 1.221891 - Inst FPS=28.214546 - Avg FPS=29.462540
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 37: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #37 read at 1.254796 - Inst FPS=30.390418 - Avg FPS=29.486872
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 38: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #38 read at 1.286415 - Inst FPS=31.626016 - Avg FPS=29.539452
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 39: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #39 read at 1.323179 - Inst FPS=27.200502 - Avg FPS=29.474465
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 40: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #40 read at 1.358745 - Inst FPS=28.117264 - Avg FPS=29.438940
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 41: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #41 read at 1.386355 - Inst FPS=36.218187 - Avg FPS=29.573954
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 42: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #42 read at 1.421851 - Inst FPS=28.172194 - Avg FPS=29.538960
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 43: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #43 read at 1.454492 - Inst FPS=30.636703 - Avg FPS=29.563595
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 44: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #44 read at 1.483996 - Inst FPS=33.893755 - Avg FPS=29.649684
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 45: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #45 read at 1.514161 - Inst FPS=33.150790 - Avg FPS=29.719434
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 46: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #46 read at 1.606733 - Inst FPS=10.802322 - Avg FPS=28.629515
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 47: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #47 read at 1.629375 - Inst FPS=44.167302 - Avg FPS=28.845423
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 48: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #48 read at 1.653493 - Inst FPS=41.461776 - Avg FPS=29.029451
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 49: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #49 read at 1.673386 - Inst FPS=50.268580 - Avg FPS=29.281940
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 50: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #50 read at 1.690343 - Inst FPS=58.973589 - Avg FPS=29.579793
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 51: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #51 read at 1.718735 - Inst FPS=35.221871 - Avg FPS=29.672994
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: frame 52: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:54 jetson-orin-nano video_brightener[1736826]: Frame #52 read at 1.747512 - Inst FPS=34.748896 - Avg FPS=29.756583
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 53: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #53 read at 1.787595 - Inst FPS=24.948613 - Avg FPS=29.648777
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 54: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #54 read at 1.823729 - Inst FPS=27.674428 - Avg FPS=29.609658
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 55: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #55 read at 1.846247 - Inst FPS=44.410408 - Avg FPS=29.790171
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 56: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #56 read at 1.882965 - Inst FPS=27.233998 - Avg FPS=29.740324
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 57: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #57 read at 1.918420 - Inst FPS=28.204741 - Avg FPS=29.711945
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 58: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #58 read at 1.953142 - Inst FPS=28.800858 - Avg FPS=29.695748
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 59: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #59 read at 1.982362 - Inst FPS=34.223041 - Avg FPS=29.762481
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 60: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #60 read at 2.018682 - Inst FPS=27.532543 - Avg FPS=29.722359
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 61: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #61 read at 2.049752 - Inst FPS=32.185336 - Avg FPS=29.759693
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 62: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #62 read at 2.089523 - Inst FPS=25.143856 - Avg FPS=29.671837
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 63: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #63 read at 2.123004 - Inst FPS=29.868518 - Avg FPS=29.674938
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 64: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #64 read at 2.156487 - Inst FPS=29.865493 - Avg FPS=29.677897
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 65: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #65 read at 2.190415 - Inst FPS=29.474474 - Avg FPS=29.674746
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 66: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #66 read at 2.217810 - Inst FPS=36.502489 - Avg FPS=29.759086
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 67: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #67 read at 2.258565 - Inst FPS=24.537109 - Avg FPS=29.664858
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 68: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #68 read at 2.287473 - Inst FPS=34.591802 - Avg FPS=29.727124
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 69: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #69 read at 2.318920 - Inst FPS=31.799321 - Avg FPS=29.755225
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 70: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #70 read at 2.353819 - Inst FPS=28.654234 - Avg FPS=29.738901
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 71: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #71 read at 2.387432 - Inst FPS=29.750283 - Avg FPS=29.739061
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 72: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #72 read at 2.423058 - Inst FPS=28.070008 - Avg FPS=29.714522
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 73: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #73 read at 2.454912 - Inst FPS=31.392594 - Avg FPS=29.736296
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 74: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #74 read at 2.492196 - Inst FPS=26.821633 - Avg FPS=29.692693
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 75: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #75 read at 2.517414 - Inst FPS=39.653377 - Avg FPS=29.792475
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 76: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #76 read at 2.555978 - Inst FPS=25.931171 - Avg FPS=29.734217
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 77: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #77 read at 2.589833 - Inst FPS=29.537437 - Avg FPS=29.731645
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 78: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #78 read at 2.621766 - Inst FPS=31.315425 - Avg FPS=29.750936
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 79: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #79 read at 2.657255 - Inst FPS=28.178138 - Avg FPS=29.729930
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 80: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #80 read at 2.689917 - Inst FPS=30.615963 - Avg FPS=29.740689
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 81: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #81 read at 2.718082 - Inst FPS=35.506093 - Avg FPS=29.800429
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: frame 82: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:55 jetson-orin-nano video_brightener[1736826]: Frame #82 read at 2.755093 - Inst FPS=27.018613 - Avg FPS=29.763058
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: frame 83: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: Frame #83 read at 2.785603 - Inst FPS=32.775861 - Avg FPS=29.796057
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: frame 84: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: Frame #84 read at 2.822562 - Inst FPS=27.057120 - Avg FPS=29.760193
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: frame 85: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: Frame #85 read at 2.854346 - Inst FPS=31.462762 - Avg FPS=29.779152
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: frame 86: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: Frame #86 read at 2.888827 - Inst FPS=29.001622 - Avg FPS=29.769871
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: frame 87: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: Frame #87 read at 2.919667 - Inst FPS=32.425090 - Avg FPS=29.797918
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: frame 88: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: Frame #88 read at 2.952715 - Inst FPS=30.258732 - Avg FPS=29.803076
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: frame 89: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: Frame #89 read at 2.987897 - Inst FPS=28.424297 - Avg FPS=29.786841
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: frame 90: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: Frame #90 read at 3.025660 - Inst FPS=26.480859 - Avg FPS=29.745580
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: frame 91: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: Frame #91 read at 3.052651 - Inst FPS=37.048644 - Avg FPS=29.810153
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: frame 92: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: Frame #92 read at 3.085506 - Inst FPS=30.436714 - Avg FPS=29.816825
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: frame 93: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: Frame #93 read at 3.127057 - Inst FPS=24.067012 - Avg FPS=29.740425
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: frame 94: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: Frame #94 read at 3.161388 - Inst FPS=29.127839 - Avg FPS=29.733772
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: frame 95: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: Frame #95 read at 3.190191 - Inst FPS=34.719553 - Avg FPS=29.778786
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: frame 96: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: Frame #96 read at 3.219897 - Inst FPS=33.662928 - Avg FPS=29.814620
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: frame 97: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: Frame #97 read at 3.255808 - Inst FPS=27.846363 - Avg FPS=29.792910
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: frame 98: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: Frame #98 read at 3.293288 - Inst FPS=26.680909 - Avg FPS=29.757494
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: frame 99: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: Frame #99 read at 3.323280 - Inst FPS=33.342646 - Avg FPS=29.789848
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: frame 100: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: Frame #100 read at 3.362586 - Inst FPS=25.441544 - Avg FPS=29.739020
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: frame 101: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: Frame #101 read at 3.390262 - Inst FPS=36.132171 - Avg FPS=29.791210
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: frame 102: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: Frame #102 read at 3.422546 - Inst FPS=30.974542 - Avg FPS=29.802373
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: frame 103: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: Frame #103 read at 3.453469 - Inst FPS=32.339186 - Avg FPS=29.825087
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: frame 104: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: Frame #104 read at 3.496056 - Inst FPS=23.481186 - Avg FPS=29.747809
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: frame 105: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: Frame #105 read at 3.523489 - Inst FPS=36.452627 - Avg FPS=29.800011
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: frame 106: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: Frame #106 read at 3.553260 - Inst FPS=33.589583 - Avg FPS=29.831762
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: frame 107: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: Frame #107 read at 3.595768 - Inst FPS=23.525131 - Avg FPS=29.757207
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: frame 108: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: Frame #108 read at 3.623740 - Inst FPS=35.750058 - Avg FPS=29.803467
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: frame 109: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: Frame #109 read at 3.659457 - Inst FPS=27.997554 - Avg FPS=29.785840
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: frame 110: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: Frame #110 read at 3.690373 - Inst FPS=32.346048 - Avg FPS=29.807288
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: frame 111: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:56 jetson-orin-nano video_brightener[1736826]: Frame #111 read at 3.720977 - Inst FPS=32.674795 - Avg FPS=29.830873
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 112: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #112 read at 3.757979 - Inst FPS=27.026021 - Avg FPS=29.803256
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 113: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #113 read at 3.792378 - Inst FPS=29.070475 - Avg FPS=29.796610
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 114: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #114 read at 3.824314 - Inst FPS=31.312099 - Avg FPS=29.809265
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 115: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #115 read at 3.859134 - Inst FPS=28.719438 - Avg FPS=29.799432
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 116: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #116 read at 3.892595 - Inst FPS=29.885401 - Avg FPS=29.800171
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 117: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #117 read at 3.928217 - Inst FPS=28.072631 - Avg FPS=29.784505
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 118: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #118 read at 3.957634 - Inst FPS=33.994378 - Avg FPS=29.815797
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 119: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #119 read at 3.993116 - Inst FPS=28.182890 - Avg FPS=29.801287
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 120: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #120 read at 4.026423 - Inst FPS=30.023916 - Avg FPS=29.803129
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 121: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #121 read at 4.062381 - Inst FPS=27.810108 - Avg FPS=29.785487
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 122: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #122 read at 4.090925 - Inst FPS=35.033123 - Avg FPS=29.822103
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 123: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #123 read at 4.119812 - Inst FPS=34.617630 - Avg FPS=29.855728
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 124: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #124 read at 4.155348 - Inst FPS=28.140634 - Avg FPS=29.841061
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 125: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #125 read at 4.190255 - Inst FPS=28.647641 - Avg FPS=29.831119
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 126: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #126 read at 4.223699 - Inst FPS=29.901186 - Avg FPS=29.831674
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 127: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #127 read at 4.256742 - Inst FPS=30.263362 - Avg FPS=29.835025
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 128: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #128 read at 4.296802 - Inst FPS=24.962405 - Avg FPS=29.789596
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 129: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #129 read at 4.329817 - Inst FPS=30.289646 - Avg FPS=29.793409
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 130: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #130 read at 4.366111 - Inst FPS=27.552789 - Avg FPS=29.774783
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 131: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #131 read at 4.390715 - Inst FPS=40.643289 - Avg FPS=29.835687
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 132: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #132 read at 4.427679 - Inst FPS=27.053349 - Avg FPS=29.812459
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 133: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #133 read at 4.463002 - Inst FPS=28.309963 - Avg FPS=29.800567
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 134: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #134 read at 4.495219 - Inst FPS=31.039336 - Avg FPS=29.809446
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 135: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #135 read at 4.529998 - Inst FPS=28.753395 - Avg FPS=29.801338
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 136: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #136 read at 4.558296 - Inst FPS=35.337898 - Avg FPS=29.835709
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 137: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #137 read at 4.594145 - Inst FPS=27.895284 - Avg FPS=29.820568
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 138: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #138 read at 4.624773 - Inst FPS=32.649089 - Avg FPS=29.839301
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 139: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #139 read at 4.661287 - Inst FPS=27.387065 - Avg FPS=29.820091
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 140: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #140 read at 4.688199 - Inst FPS=37.157899 - Avg FPS=29.862213
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: frame 141: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:57 jetson-orin-nano video_brightener[1736826]: Frame #141 read at 4.728195 - Inst FPS=25.002549 - Avg FPS=29.821105
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 142: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #142 read at 4.757639 - Inst FPS=33.963047 - Avg FPS=29.846739
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 143: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #143 read at 4.789114 - Inst FPS=31.771000 - Avg FPS=29.859385
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 144: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #144 read at 4.828980 - Inst FPS=25.083952 - Avg FPS=29.819961
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 145: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #145 read at 4.859984 - Inst FPS=32.253570 - Avg FPS=29.835487
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 146: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #146 read at 4.893183 - Inst FPS=30.122200 - Avg FPS=29.837432
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 147: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #147 read at 4.931607 - Inst FPS=26.024854 - Avg FPS=29.807726
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 148: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #148 read at 4.962989 - Inst FPS=31.865244 - Avg FPS=29.820736
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 149: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #149 read at 4.992048 - Inst FPS=34.412950 - Avg FPS=29.847468
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 150: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #150 read at 5.029321 - Inst FPS=26.829487 - Avg FPS=29.825101
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 151: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #151 read at 5.058988 - Inst FPS=33.706937 - Avg FPS=29.847866
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 152: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #152 read at 5.093016 - Inst FPS=29.387493 - Avg FPS=29.844790
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 153: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #153 read at 5.130147 - Inst FPS=26.931735 - Avg FPS=29.823706
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 154: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #154 read at 5.158830 - Inst FPS=34.864428 - Avg FPS=29.851731
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 155: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #155 read at 5.198223 - Inst FPS=25.384978 - Avg FPS=29.817881
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 156: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #156 read at 5.225461 - Inst FPS=36.713185 - Avg FPS=29.853824
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 157: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #157 read at 5.263048 - Inst FPS=26.605424 - Avg FPS=29.830625
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 158: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #158 read at 5.299093 - Inst FPS=27.742853 - Avg FPS=29.816424
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 159: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #159 read at 5.330842 - Inst FPS=31.496535 - Avg FPS=29.826430
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 160: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #160 read at 5.363722 - Inst FPS=30.413608 - Avg FPS=29.830030
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 161: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #161 read at 5.399794 - Inst FPS=27.722548 - Avg FPS=29.815951
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 162: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #162 read at 5.429953 - Inst FPS=33.158037 - Avg FPS=29.834513
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 163: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #163 read at 5.460764 - Inst FPS=32.456073 - Avg FPS=29.849305
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 164: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #164 read at 5.498953 - Inst FPS=26.185490 - Avg FPS=29.823860
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 165: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #165 read at 5.529354 - Inst FPS=32.893923 - Avg FPS=29.840740
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 166: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #166 read at 5.561183 - Inst FPS=31.417560 - Avg FPS=29.849765
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 167: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #167 read at 5.596643 - Inst FPS=28.201050 - Avg FPS=29.839319
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 168: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #168 read at 5.631463 - Inst FPS=28.718462 - Avg FPS=29.832388
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 169: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #169 read at 5.663025 - Inst FPS=31.683639 - Avg FPS=29.842706
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 170: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #170 read at 5.699266 - Inst FPS=27.593249 - Avg FPS=29.828402
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: frame 171: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:58 jetson-orin-nano video_brightener[1736826]: Frame #171 read at 5.729015 - Inst FPS=33.614297 - Avg FPS=29.848061
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 172: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #172 read at 5.765641 - Inst FPS=27.303194 - Avg FPS=29.831895
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 173: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #173 read at 5.793714 - Inst FPS=35.621404 - Avg FPS=29.859948
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 174: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #174 read at 5.828125 - Inst FPS=29.060417 - Avg FPS=29.855227
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 175: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #175 read at 5.861186 - Inst FPS=30.247691 - Avg FPS=29.857441
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 176: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #176 read at 5.896385 - Inst FPS=28.409440 - Avg FPS=29.848797
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 177: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #177 read at 5.922963 - Inst FPS=37.625748 - Avg FPS=29.883693
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 178: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #178 read at 5.967528 - Inst FPS=22.439148 - Avg FPS=29.828098
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 179: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #179 read at 5.999051 - Inst FPS=31.722106 - Avg FPS=29.838051
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 180: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #180 read at 6.035470 - Inst FPS=27.458852 - Avg FPS=29.823695
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 181: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #181 read at 6.063079 - Inst FPS=36.219615 - Avg FPS=29.852820
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 182: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #182 read at 6.099999 - Inst FPS=27.085192 - Avg FPS=29.836068
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 183: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #183 read at 6.131390 - Inst FPS=31.857123 - Avg FPS=29.846415
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 184: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #184 read at 6.162693 - Inst FPS=31.945346 - Avg FPS=29.857077
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 185: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #185 read at 6.190834 - Inst FPS=35.535043 - Avg FPS=29.882887
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 186: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #186 read at 6.222097 - Inst FPS=31.986580 - Avg FPS=29.893457
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 187: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #187 read at 6.266170 - Inst FPS=22.689683 - Avg FPS=29.842789
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 188: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #188 read at 6.293779 - Inst FPS=36.219993 - Avg FPS=29.870764
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 189: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #189 read at 6.333670 - Inst FPS=25.068458 - Avg FPS=29.840519
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 190: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #190 read at 6.366018 - Inst FPS=30.914145 - Avg FPS=29.845974
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 191: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #191 read at 6.398907 - Inst FPS=30.404850 - Avg FPS=29.848846
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 192: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #192 read at 6.434156 - Inst FPS=28.369462 - Avg FPS=29.840742
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 193: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #193 read at 6.466594 - Inst FPS=30.828628 - Avg FPS=29.845697
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 194: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #194 read at 6.498562 - Inst FPS=31.281412 - Avg FPS=29.852760
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 195: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #195 read at 6.532613 - Inst FPS=29.367001 - Avg FPS=29.850228
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 196: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #196 read at 6.566981 - Inst FPS=29.097408 - Avg FPS=29.846288
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 197: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #197 read at 6.599484 - Inst FPS=30.765770 - Avg FPS=29.850817
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 198: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #198 read at 6.635672 - Inst FPS=27.634194 - Avg FPS=29.838728
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 199: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #199 read at 6.667912 - Inst FPS=31.016753 - Avg FPS=29.844424
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 200: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #200 read at 6.700786 - Inst FPS=30.419026 - Avg FPS=29.847243
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: frame 201: Streamed brightened frame to MP4 pipe
+Jul  7 21:53:59 jetson-orin-nano video_brightener[1736826]: Frame #201 read at 6.736459 - Inst FPS=28.032389 - Avg FPS=29.837633
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 202: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #202 read at 6.767650 - Inst FPS=32.061339 - Avg FPS=29.847881
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 203: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #203 read at 6.799853 - Inst FPS=31.052938 - Avg FPS=29.853588
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 204: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #204 read at 6.828402 - Inst FPS=35.027077 - Avg FPS=29.875218
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 205: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #205 read at 6.864562 - Inst FPS=27.655202 - Avg FPS=29.863524
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 206: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #206 read at 6.898080 - Inst FPS=29.834214 - Avg FPS=29.863382
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 207: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #207 read at 6.933184 - Inst FPS=28.486953 - Avg FPS=29.856413
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 208: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #208 read at 6.965412 - Inst FPS=31.028363 - Avg FPS=29.861835
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 209: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #209 read at 7.002104 - Inst FPS=27.254235 - Avg FPS=29.848171
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 210: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #210 read at 7.035221 - Inst FPS=30.195928 - Avg FPS=29.849808
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 211: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #211 read at 7.069013 - Inst FPS=29.592429 - Avg FPS=29.848578
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 212: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #212 read at 7.102347 - Inst FPS=29.999877 - Avg FPS=29.849288
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 213: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #213 read at 7.128550 - Inst FPS=38.164211 - Avg FPS=29.879851
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 214: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #214 read at 7.166279 - Inst FPS=26.504780 - Avg FPS=29.862082
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 215: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #215 read at 7.196882 - Inst FPS=32.675821 - Avg FPS=29.874047
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 216: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #216 read at 7.231597 - Inst FPS=28.806406 - Avg FPS=29.868922
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 217: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #217 read at 7.258776 - Inst FPS=36.792591 - Avg FPS=29.894847
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 218: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #218 read at 7.297728 - Inst FPS=25.672377 - Avg FPS=29.872309
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 219: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #219 read at 7.334718 - Inst FPS=27.034720 - Avg FPS=29.857999
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 220: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #220 read at 7.368372 - Inst FPS=29.714017 - Avg FPS=29.857341
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 221: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #221 read at 7.407359 - Inst FPS=25.649787 - Avg FPS=29.835196
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 222: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #222 read at 7.435347 - Inst FPS=35.728966 - Avg FPS=29.857381
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 223: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #223 read at 7.465167 - Inst FPS=33.534469 - Avg FPS=29.872070
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 224: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #224 read at 7.497310 - Inst FPS=31.111586 - Avg FPS=29.877384
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 225: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #225 read at 7.532280 - Inst FPS=28.595709 - Avg FPS=29.871433
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 226: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #226 read at 7.570993 - Inst FPS=25.830899 - Avg FPS=29.850773
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 227: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #227 read at 7.605486 - Inst FPS=28.991963 - Avg FPS=29.846878
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 228: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #228 read at 7.634953 - Inst FPS=33.936417 - Avg FPS=29.862661
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 229: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #229 read at 7.665561 - Inst FPS=32.670764 - Avg FPS=29.873874
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 230: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #230 read at 7.701287 - Inst FPS=27.991009 - Avg FPS=29.865139
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: frame 231: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:00 jetson-orin-nano video_brightener[1736826]: Frame #231 read at 7.735696 - Inst FPS=29.062067 - Avg FPS=29.861567
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 232: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #232 read at 7.769192 - Inst FPS=29.854508 - Avg FPS=29.861537
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 233: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #233 read at 7.802500 - Inst FPS=30.022272 - Avg FPS=29.862223
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 234: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #234 read at 7.829369 - Inst FPS=37.217156 - Avg FPS=29.887464
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 235: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #235 read at 7.869993 - Inst FPS=24.616513 - Avg FPS=29.860257
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 236: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #236 read at 7.901543 - Inst FPS=31.695691 - Avg FPS=29.867585
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 237: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #237 read at 7.935739 - Inst FPS=29.242894 - Avg FPS=29.864893
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 238: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #238 read at 7.971166 - Inst FPS=28.227341 - Avg FPS=29.857616
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 239: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #239 read at 8.001836 - Inst FPS=32.605246 - Avg FPS=29.868147
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 240: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #240 read at 8.029270 - Inst FPS=36.450035 - Avg FPS=29.890636
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 241: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #241 read at 8.072512 - Inst FPS=23.125840 - Avg FPS=29.854400
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 242: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #242 read at 8.103671 - Inst FPS=32.093971 - Avg FPS=29.863011
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 243: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #243 read at 8.131424 - Inst FPS=36.031767 - Avg FPS=29.884065
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 244: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #244 read at 8.167924 - Inst FPS=27.396766 - Avg FPS=29.872950
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 245: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #245 read at 8.202182 - Inst FPS=29.190665 - Avg FPS=29.870100
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 246: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #246 read at 8.238399 - Inst FPS=27.611510 - Avg FPS=29.860171
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 247: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #247 read at 8.266931 - Inst FPS=35.048135 - Avg FPS=29.878077
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 248: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #248 read at 8.303463 - Inst FPS=27.373630 - Avg FPS=29.867058
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 249: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #249 read at 8.338105 - Inst FPS=28.866065 - Avg FPS=29.862900
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 250: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #250 read at 8.366143 - Inst FPS=35.666696 - Avg FPS=29.882350
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 251: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #251 read at 8.406032 - Inst FPS=25.069323 - Avg FPS=29.859510
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 252: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #252 read at 8.442970 - Inst FPS=27.072427 - Avg FPS=29.847317
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 253: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #253 read at 8.471075 - Inst FPS=35.581047 - Avg FPS=29.866340
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 254: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #254 read at 8.501600 - Inst FPS=32.759781 - Avg FPS=29.876729
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 255: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #255 read at 8.539637 - Inst FPS=26.290177 - Avg FPS=29.860754
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 256: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #256 read at 8.572376 - Inst FPS=30.544650 - Avg FPS=29.863366
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 257: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #257 read at 8.603421 - Inst FPS=32.211778 - Avg FPS=29.871840
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 258: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #258 read at 8.633648 - Inst FPS=33.082004 - Avg FPS=29.883079
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 259: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #259 read at 8.669118 - Inst FPS=28.193342 - Avg FPS=29.876166
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 260: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #260 read at 8.706837 - Inst FPS=26.511818 - Avg FPS=29.861591
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: frame 261: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:01 jetson-orin-nano video_brightener[1736826]: Frame #261 read at 8.737594 - Inst FPS=32.512804 - Avg FPS=29.870923
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 262: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #262 read at 8.766755 - Inst FPS=34.292557 - Avg FPS=29.885631
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 263: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #263 read at 8.802600 - Inst FPS=27.897401 - Avg FPS=29.877535
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 264: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #264 read at 8.839412 - Inst FPS=27.165058 - Avg FPS=29.866238
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 265: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #265 read at 8.868016 - Inst FPS=34.960342 - Avg FPS=29.882669
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 266: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #266 read at 8.907404 - Inst FPS=25.388381 - Avg FPS=29.862796
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 267: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #267 read at 8.937785 - Inst FPS=32.915752 - Avg FPS=29.873173
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 268: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #268 read at 8.971436 - Inst FPS=29.717181 - Avg FPS=29.872588
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 269: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #269 read at 9.006925 - Inst FPS=28.177605 - Avg FPS=29.865910
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 270: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #270 read at 9.034264 - Inst FPS=36.577348 - Avg FPS=29.886220
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 271: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #271 read at 9.070333 - Inst FPS=27.724959 - Avg FPS=29.877625
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 272: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #272 read at 9.103928 - Inst FPS=29.766039 - Avg FPS=29.877214
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 273: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #273 read at 9.140012 - Inst FPS=27.713353 - Avg FPS=29.868671
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 274: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #274 read at 9.171711 - Inst FPS=31.546169 - Avg FPS=29.874469
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 275: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #275 read at 9.205963 - Inst FPS=29.195792 - Avg FPS=29.871944
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 276: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #276 read at 9.230335 - Inst FPS=41.030077 - Avg FPS=29.901406
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 277: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #277 read at 9.268144 - Inst FPS=26.448696 - Avg FPS=29.887321
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 278: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #278 read at 9.307335 - Inst FPS=25.515894 - Avg FPS=29.868914
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 279: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #279 read at 9.339111 - Inst FPS=31.470843 - Avg FPS=29.874364
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 280: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #280 read at 9.374464 - Inst FPS=28.286364 - Avg FPS=29.868376
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 281: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #281 read at 9.406877 - Inst FPS=30.850998 - Avg FPS=29.871762
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 282: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #282 read at 9.438914 - Inst FPS=31.214358 - Avg FPS=29.876318
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 283: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #283 read at 9.473058 - Inst FPS=29.287925 - Avg FPS=29.874198
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 284: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #284 read at 9.509820 - Inst FPS=27.201805 - Avg FPS=29.863867
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 285: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #285 read at 9.541874 - Inst FPS=31.197156 - Avg FPS=29.868346
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 286: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #286 read at 9.575159 - Inst FPS=30.043718 - Avg FPS=29.868956
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 287: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #287 read at 9.606281 - Inst FPS=32.131460 - Avg FPS=29.876286
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 288: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #288 read at 9.636742 - Inst FPS=32.829164 - Avg FPS=29.885619
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 289: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #289 read at 9.668907 - Inst FPS=31.089579 - Avg FPS=29.889624
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 290: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #290 read at 9.704757 - Inst FPS=27.894238 - Avg FPS=29.882253
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: frame 291: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:02 jetson-orin-nano video_brightener[1736826]: Frame #291 read at 9.739065 - Inst FPS=29.147129 - Avg FPS=29.879664
+Jul  7 21:54:03 jetson-orin-nano video_brightener[1736826]: frame 292: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:03 jetson-orin-nano video_brightener[1736826]: Frame #292 read at 9.773572 - Inst FPS=28.980294 - Avg FPS=29.876488
+Jul  7 21:54:03 jetson-orin-nano video_brightener[1736826]: frame 293: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:03 jetson-orin-nano video_brightener[1736826]: Frame #293 read at 9.807037 - Inst FPS=29.881944 - Avg FPS=29.876507
+Jul  7 21:54:03 jetson-orin-nano video_brightener[1736826]: frame 294: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:03 jetson-orin-nano video_brightener[1736826]: Frame #294 read at 9.841291 - Inst FPS=29.193283 - Avg FPS=29.874129
+Jul  7 21:54:03 jetson-orin-nano video_brightener[1736826]: frame 295: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:03 jetson-orin-nano video_brightener[1736826]: Frame #295 read at 9.875463 - Inst FPS=29.263790 - Avg FPS=29.872017
+Jul  7 21:54:03 jetson-orin-nano video_brightener[1736826]: frame 296: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:03 jetson-orin-nano video_brightener[1736826]: Frame #296 read at 9.904682 - Inst FPS=34.224465 - Avg FPS=29.884857
+Jul  7 21:54:03 jetson-orin-nano video_brightener[1736826]: frame 297: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:03 jetson-orin-nano video_brightener[1736826]: Frame #297 read at 9.941608 - Inst FPS=27.081297 - Avg FPS=29.874444
+Jul  7 21:54:03 jetson-orin-nano video_brightener[1736826]: frame 298: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:03 jetson-orin-nano video_brightener[1736826]: Frame #298 read at 9.973334 - Inst FPS=31.520013 - Avg FPS=29.879678
+Jul  7 21:54:03 jetson-orin-nano video_brightener[1736826]: frame 299: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:03 jetson-orin-nano video_brightener[1736826]: Frame #299 read at 10.005651 - Inst FPS=30.942920 - Avg FPS=29.883112
+Jul  7 21:54:03 jetson-orin-nano video_brightener[1736826]: frame 300: Streamed brightened frame to MP4 pipe
+Jul  7 21:54:03 jetson-orin-nano video_brightener[1736826]: Frame #300 read at 10.037303 - Inst FPS=31.594170 - Avg FPS=29.888508
+Jul  7 21:54:03 jetson-orin-nano video_brightener[1736826]: FFmpeg pipe closed cleanly.
+Jul  7 21:54:03 jetson-orin-nano video_brightener[1736826]: Capture cleanup completed successfully.
