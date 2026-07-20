@@ -1,0 +1,314 @@
+Jul 18 17:24:49 jetson-orin-nano fwupdmgr[2549806]: Successfully downloaded new metadata:
+Jul 18 17:24:49 jetson-orin-nano fwupdmgr[2549806]:  • 1 device is updatable
+Jul 18 17:24:49 jetson-orin-nano fwupdmgr[2549806]:  • 0 devices are supported in the enabled remotes (an update has been published)
+Jul 18 17:24:49 jetson-orin-nano systemd[1]: fwupd-refresh.service: Deactivated successfully.
+Jul 18 17:24:49 jetson-orin-nano systemd[1]: Finished Refresh fwupd metadata and update motd.
+Jul 18 17:30:01 jetson-orin-nano CRON[2552575]: (root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+Jul 18 17:31:34 jetson-orin-nano systemd[1]: Started Run anacron jobs.
+Jul 18 17:31:34 jetson-orin-nano anacron[2553194]: Anacron 2.3 started on 2026-07-18
+Jul 18 17:31:34 jetson-orin-nano anacron[2553194]: Normal exit (0 jobs run)
+Jul 18 17:31:34 jetson-orin-nano systemd[1]: anacron.service: Deactivated successfully.
+Jul 18 17:42:18 jetson-orin-nano one_hz[2557252]: 1HZ synchronome for analog clock started at 2026-07-18 17:42:18
+Jul 18 17:42:18 jetson-orin-nano one_hz[2557252]: FORCING FORMAT: 640x480 YUYV
+Jul 18 17:42:19 jetson-orin-nano one_hz[2557252]: [PRO] processor started at 567.0848 on CPU 0
+Jul 18 17:42:19 jetson-orin-nano one_hz[2557252]: [ACQ] frame acquisition started at 568.0505 on CPU 0
+Jul 18 17:42:19 jetson-orin-nano one_hz[2557252]: [SEQ] sequencer started at 569.1313 on CPU 0, period=100 ms
+Jul 18 17:42:19 jetson-orin-nano one_hz[2557252]: [WB] writer started at 567.9749 on CPU 1
+Jul 18 17:42:19 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 769.4215
+Jul 18 17:42:19 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 771.2324
+Jul 18 17:42:19 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 969.4021
+Jul 18 17:42:19 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 970.2156
+Jul 18 17:42:19 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 1169.3800
+Jul 18 17:42:19 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 1171.1604
+Jul 18 17:42:19 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 1369.3354
+Jul 18 17:42:19 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 1371.4109
+Jul 18 17:42:20 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 1569.3403
+Jul 18 17:42:20 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 1571.3926
+Jul 18 17:42:20 jetson-orin-nano one_hz[2557252]: [PRO] started processing frame at 1571.4774
+Jul 18 17:42:20 jetson-orin-nano one_hz[2557252]: [PRO] done processing frame at 1592.8090
+Jul 18 17:42:20 jetson-orin-nano one_hz[2557252]: [WB] started writing frame at 1592.8297
+Jul 18 17:42:20 jetson-orin-nano one_hz[2557252]: [WB] Frame #1 written at 1609.7513
+Jul 18 17:42:20 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 1769.3535
+Jul 18 17:42:20 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 1771.3834
+Jul 18 17:42:20 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 1969.3515
+Jul 18 17:42:20 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 1971.2799
+Jul 18 17:42:20 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 2169.3591
+Jul 18 17:42:20 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 2171.3354
+Jul 18 17:42:20 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 2369.2757
+Jul 18 17:42:20 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 2371.3538
+Jul 18 17:42:21 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 2569.2827
+Jul 18 17:42:21 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 2571.2355
+Jul 18 17:42:21 jetson-orin-nano one_hz[2557252]: [PRO] started processing frame at 2571.3084
+Jul 18 17:42:21 jetson-orin-nano one_hz[2557252]: [PRO] done processing frame at 2593.0524
+Jul 18 17:42:21 jetson-orin-nano one_hz[2557252]: [WB] started writing frame at 2593.0745
+Jul 18 17:42:21 jetson-orin-nano one_hz[2557252]: [WB] Frame #2 written at 2610.7630
+Jul 18 17:42:21 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 2769.2919
+Jul 18 17:42:21 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 2769.9559
+Jul 18 17:42:21 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 2969.3058
+Jul 18 17:42:21 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 2970.0105
+Jul 18 17:42:21 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 3169.2779
+Jul 18 17:42:21 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 3169.6269
+Jul 18 17:42:21 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 3369.3231
+Jul 18 17:42:21 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 3370.0827
+Jul 18 17:42:22 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 3569.3015
+Jul 18 17:42:22 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 3569.9893
+Jul 18 17:42:22 jetson-orin-nano one_hz[2557252]: [PRO] started processing frame at 3570.0567
+Jul 18 17:42:22 jetson-orin-nano one_hz[2557252]: [PRO] done processing frame at 3592.2301
+Jul 18 17:42:22 jetson-orin-nano one_hz[2557252]: [WB] started writing frame at 3592.2506
+Jul 18 17:42:22 jetson-orin-nano one_hz[2557252]: [WB] Frame #3 written at 3610.5692
+Jul 18 17:42:22 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 3769.3361
+Jul 18 17:42:22 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 3770.0849
+Jul 18 17:42:22 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 3969.2913
+Jul 18 17:42:22 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 3969.6862
+Jul 18 17:42:22 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 4169.3147
+Jul 18 17:42:22 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 4170.1346
+Jul 18 17:42:22 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 4369.2709
+Jul 18 17:42:22 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 4369.6586
+Jul 18 17:42:23 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 4569.3034
+Jul 18 17:42:23 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 4569.9363
+Jul 18 17:42:23 jetson-orin-nano one_hz[2557252]: [PRO] started processing frame at 4570.0106
+Jul 18 17:42:23 jetson-orin-nano one_hz[2557252]: [PRO] done processing frame at 4592.3160
+Jul 18 17:42:23 jetson-orin-nano one_hz[2557252]: [WB] started writing frame at 4592.3357
+Jul 18 17:42:23 jetson-orin-nano one_hz[2557252]: [WB] Frame #4 written at 4610.6959
+Jul 18 17:42:23 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 4769.2844
+Jul 18 17:42:23 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 4769.6768
+Jul 18 17:42:23 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 4969.2897
+Jul 18 17:42:23 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 4969.9341
+Jul 18 17:42:23 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 5169.3166
+Jul 18 17:42:23 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 5170.0894
+Jul 18 17:42:23 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 5369.3107
+Jul 18 17:42:23 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 5370.0709
+Jul 18 17:42:24 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 5569.2878
+Jul 18 17:42:24 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 5569.9096
+Jul 18 17:42:24 jetson-orin-nano one_hz[2557252]: [PRO] started processing frame at 5569.9694
+Jul 18 17:42:24 jetson-orin-nano one_hz[2557252]: [PRO] done processing frame at 5591.9230
+Jul 18 17:42:24 jetson-orin-nano one_hz[2557252]: [WB] started writing frame at 5591.9617
+Jul 18 17:42:24 jetson-orin-nano one_hz[2557252]: [WB] Frame #5 written at 5610.5048
+Jul 18 17:42:24 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 5769.2946
+Jul 18 17:42:24 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 5770.0711
+Jul 18 17:42:24 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 5969.2808
+Jul 18 17:42:24 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 5969.9724
+Jul 18 17:42:24 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 6169.2943
+Jul 18 17:42:24 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 6169.9721
+Jul 18 17:42:24 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 6369.2998
+Jul 18 17:42:24 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 6370.0137
+Jul 18 17:42:25 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 6569.3087
+Jul 18 17:42:25 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 6569.9786
+Jul 18 17:42:25 jetson-orin-nano one_hz[2557252]: [PRO] started processing frame at 6570.0567
+Jul 18 17:42:25 jetson-orin-nano one_hz[2557252]: [PRO] done processing frame at 6592.5555
+Jul 18 17:42:25 jetson-orin-nano one_hz[2557252]: [WB] started writing frame at 6593.2999
+Jul 18 17:42:25 jetson-orin-nano one_hz[2557252]: [WB] Frame #6 written at 6610.5580
+Jul 18 17:42:25 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 6769.3274
+Jul 18 17:42:25 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 6770.0386
+Jul 18 17:42:25 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 6969.2781
+Jul 18 17:42:25 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 6969.9142
+Jul 18 17:42:25 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 7169.2751
+Jul 18 17:42:25 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 7169.9455
+Jul 18 17:42:25 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 7369.2782
+Jul 18 17:42:25 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 7369.9536
+Jul 18 17:42:26 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 7569.2885
+Jul 18 17:42:26 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 7569.9176
+Jul 18 17:42:26 jetson-orin-nano one_hz[2557252]: [PRO] started processing frame at 7569.9824
+Jul 18 17:42:26 jetson-orin-nano one_hz[2557252]: [PRO] done processing frame at 7591.9241
+Jul 18 17:42:26 jetson-orin-nano one_hz[2557252]: [WB] started writing frame at 7591.9679
+Jul 18 17:42:26 jetson-orin-nano one_hz[2557252]: [WB] Frame #7 written at 7611.0840
+Jul 18 17:42:26 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 7769.3969
+Jul 18 17:42:26 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 7770.1039
+Jul 18 17:42:26 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 7969.3026
+Jul 18 17:42:26 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 7969.9706
+Jul 18 17:42:26 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 8169.3161
+Jul 18 17:42:26 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 8170.0088
+Jul 18 17:42:26 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 8369.2741
+Jul 18 17:42:26 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 8369.9852
+Jul 18 17:42:27 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 8569.2827
+Jul 18 17:42:27 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 8569.9527
+Jul 18 17:42:27 jetson-orin-nano one_hz[2557252]: [PRO] started processing frame at 8570.0318
+Jul 18 17:42:27 jetson-orin-nano one_hz[2557252]: [PRO] done processing frame at 8591.8080
+Jul 18 17:42:27 jetson-orin-nano one_hz[2557252]: [WB] started writing frame at 8591.8255
+Jul 18 17:42:27 jetson-orin-nano one_hz[2557252]: [WB] Frame #8 written at 8609.6545
+Jul 18 17:42:27 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 8769.3250
+Jul 18 17:42:27 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 8770.0299
+Jul 18 17:42:27 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 8969.2808
+Jul 18 17:42:27 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 8969.6392
+Jul 18 17:42:27 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 9169.3538
+Jul 18 17:42:27 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 9170.1145
+Jul 18 17:42:27 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 9369.2647
+Jul 18 17:42:27 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 9369.6452
+Jul 18 17:42:28 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 9569.2959
+Jul 18 17:42:28 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 9569.9851
+Jul 18 17:42:28 jetson-orin-nano one_hz[2557252]: [PRO] started processing frame at 9570.0572
+Jul 18 17:42:28 jetson-orin-nano one_hz[2557252]: [PRO] done processing frame at 9592.5321
+Jul 18 17:42:28 jetson-orin-nano one_hz[2557252]: [WB] started writing frame at 9592.5507
+Jul 18 17:42:28 jetson-orin-nano one_hz[2557252]: [WB] Frame #9 written at 9611.3847
+Jul 18 17:42:28 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 9769.3224
+Jul 18 17:42:28 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 9769.9835
+Jul 18 17:42:28 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 9969.2871
+Jul 18 17:42:28 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 9969.9296
+Jul 18 17:42:28 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 10169.3170
+Jul 18 17:42:28 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 10170.0259
+Jul 18 17:42:28 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 10369.3275
+Jul 18 17:42:28 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 10370.0463
+Jul 18 17:42:29 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 10569.3020
+Jul 18 17:42:29 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 10569.9643
+Jul 18 17:42:29 jetson-orin-nano one_hz[2557252]: [PRO] started processing frame at 10570.0429
+Jul 18 17:42:29 jetson-orin-nano one_hz[2557252]: [PRO] done processing frame at 10592.3601
+Jul 18 17:42:29 jetson-orin-nano one_hz[2557252]: [WB] started writing frame at 10592.3776
+Jul 18 17:42:29 jetson-orin-nano one_hz[2557252]: [WB] Frame #10 written at 10610.7290
+Jul 18 17:42:29 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 10769.3167
+Jul 18 17:42:29 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 10770.1896
+Jul 18 17:42:29 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 10969.2903
+Jul 18 17:42:29 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 10969.9461
+Jul 18 17:42:29 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 11169.2996
+Jul 18 17:42:29 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 11169.9887
+Jul 18 17:42:29 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 11369.3380
+Jul 18 17:42:29 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 11370.0709
+Jul 18 17:42:30 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 11569.2936
+Jul 18 17:42:30 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 11569.9917
+Jul 18 17:42:30 jetson-orin-nano one_hz[2557252]: [PRO] started processing frame at 11570.0653
+Jul 18 17:42:30 jetson-orin-nano one_hz[2557252]: [PRO] done processing frame at 11591.1747
+Jul 18 17:42:30 jetson-orin-nano one_hz[2557252]: [WB] started writing frame at 11591.1919
+Jul 18 17:42:30 jetson-orin-nano one_hz[2557252]: [WB] Frame #11 written at 11608.8925
+Jul 18 17:42:30 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 11769.2898
+Jul 18 17:42:30 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 11769.9917
+Jul 18 17:42:30 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 11969.2848
+Jul 18 17:42:30 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 11969.9471
+Jul 18 17:42:30 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 12169.2838
+Jul 18 17:42:30 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 12169.9556
+Jul 18 17:42:30 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 12369.2950
+Jul 18 17:42:30 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 12370.0264
+Jul 18 17:42:31 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 12569.3033
+Jul 18 17:42:31 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 12569.9673
+Jul 18 17:42:31 jetson-orin-nano one_hz[2557252]: [PRO] started processing frame at 12570.0486
+Jul 18 17:42:31 jetson-orin-nano one_hz[2557252]: [PRO] done processing frame at 12591.3378
+Jul 18 17:42:31 jetson-orin-nano one_hz[2557252]: [WB] started writing frame at 12591.3577
+Jul 18 17:42:31 jetson-orin-nano one_hz[2557252]: [WB] Frame #12 written at 12610.2180
+Jul 18 17:42:31 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 12769.2975
+Jul 18 17:42:31 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 12769.9708
+Jul 18 17:42:31 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 12969.2951
+Jul 18 17:42:31 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 12969.9796
+Jul 18 17:42:31 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 13169.3006
+Jul 18 17:42:31 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 13169.9493
+Jul 18 17:42:31 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 13369.3337
+Jul 18 17:42:31 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 13370.0696
+Jul 18 17:42:32 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 13569.2983
+Jul 18 17:42:32 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 13569.9874
+Jul 18 17:42:32 jetson-orin-nano one_hz[2557252]: [PRO] started processing frame at 13570.0634
+Jul 18 17:42:32 jetson-orin-nano one_hz[2557252]: [PRO] done processing frame at 13591.2644
+Jul 18 17:42:32 jetson-orin-nano one_hz[2557252]: [WB] started writing frame at 13591.2858
+Jul 18 17:42:32 jetson-orin-nano one_hz[2557252]: [WB] Frame #13 written at 13609.0899
+Jul 18 17:42:32 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 13769.3275
+Jul 18 17:42:32 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 13770.0363
+Jul 18 17:42:32 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 13969.2837
+Jul 18 17:42:32 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 13969.6377
+Jul 18 17:42:32 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 14169.3152
+Jul 18 17:42:32 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 14170.0582
+Jul 18 17:42:32 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 14369.2628
+Jul 18 17:42:32 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 14369.5550
+Jul 18 17:42:33 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 14569.2973
+Jul 18 17:42:33 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 14569.9559
+Jul 18 17:42:33 jetson-orin-nano one_hz[2557252]: [PRO] started processing frame at 14570.0300
+Jul 18 17:42:33 jetson-orin-nano one_hz[2557252]: [PRO] done processing frame at 14591.7426
+Jul 18 17:42:33 jetson-orin-nano one_hz[2557252]: [WB] started writing frame at 14591.7594
+Jul 18 17:42:33 jetson-orin-nano one_hz[2557252]: [WB] Frame #14 written at 14611.1161
+Jul 18 17:42:33 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 14769.3171
+Jul 18 17:42:33 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 14770.0506
+Jul 18 17:42:33 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 14969.2733
+Jul 18 17:42:33 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 14969.9372
+Jul 18 17:42:33 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 15169.3129
+Jul 18 17:42:33 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 15170.0490
+Jul 18 17:42:33 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 15369.2761
+Jul 18 17:42:33 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 15369.9896
+Jul 18 17:42:34 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 15569.2906
+Jul 18 17:42:34 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 15569.9790
+Jul 18 17:42:34 jetson-orin-nano one_hz[2557252]: [PRO] started processing frame at 15570.0613
+Jul 18 17:42:34 jetson-orin-nano one_hz[2557252]: [PRO] done processing frame at 15591.6013
+Jul 18 17:42:34 jetson-orin-nano one_hz[2557252]: [WB] started writing frame at 15591.6244
+Jul 18 17:42:34 jetson-orin-nano one_hz[2557252]: [WB] Frame #15 written at 15609.4296
+Jul 18 17:42:34 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 15769.2988
+Jul 18 17:42:34 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 15769.9807
+Jul 18 17:42:34 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 15969.2862
+Jul 18 17:42:34 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 15969.9427
+Jul 18 17:42:34 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 16169.2898
+Jul 18 17:42:34 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 16169.9096
+Jul 18 17:42:34 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 16369.3025
+Jul 18 17:42:34 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 16369.9910
+Jul 18 17:42:35 jetson-orin-nano one_hz[2557252]: [ACQ] started reading frame at 16569.3144
+Jul 18 17:42:35 jetson-orin-nano one_hz[2557252]: [ACQ] done reading frame at 16570.0347
+Jul 18 17:42:35 jetson-orin-nano one_hz[2557252]: [PRO] started processing frame at 16570.1154
+Jul 18 17:42:35 jetson-orin-nano one_hz[2557252]: [PRO] done processing frame at 16591.2539
+Jul 18 17:42:35 jetson-orin-nano one_hz[2557252]: [WB] started writing frame at 16591.2847
+Jul 18 17:42:35 jetson-orin-nano one_hz[2557252]: [WB] Frame #16 written at 16610.2018
+Jul 18 17:55:16 jetson-orin-nano dbus-daemon[1903]: [session uid=1000 pid=1903] Activating via systemd: service name='org.freedesktop.portal.Desktop' unit='xdg-desktop-portal.service' requested by ':1.140' (uid=1000 pid=2562118 comm="eom " label="kernel")
+Jul 18 17:55:16 jetson-orin-nano systemd[1813]: Starting Portal service...
+Jul 18 17:55:16 jetson-orin-nano dbus-daemon[1903]: [session uid=1000 pid=1903] Activating via systemd: service name='org.freedesktop.impl.portal.desktop.gnome' unit='xdg-desktop-portal-gnome.service' requested by ':1.141' (uid=1000 pid=2562125 comm="/usr/libexec/xdg-desktop-portal " label="kernel")
+Jul 18 17:55:16 jetson-orin-nano systemd[1813]: Starting Portal service (GNOME implementation)...
+Jul 18 17:55:16 jetson-orin-nano xdg-desktop-por[2562133]: cannot open display: 
+Jul 18 17:55:16 jetson-orin-nano systemd[1813]: xdg-desktop-portal-gnome.service: Main process exited, code=exited, status=1/FAILURE
+Jul 18 17:55:16 jetson-orin-nano systemd[1813]: xdg-desktop-portal-gnome.service: Failed with result 'exit-code'.
+Jul 18 17:55:16 jetson-orin-nano systemd[1813]: Failed to start Portal service (GNOME implementation).
+Jul 18 17:55:41 jetson-orin-nano rtkit-daemon[1843]: Supervising 0 threads of 0 processes of 0 users.
+Jul 18 17:55:41 jetson-orin-nano rtkit-daemon[1843]: message repeated 2 times: [ Supervising 0 threads of 0 processes of 0 users.]
+Jul 18 17:55:53 jetson-orin-nano dbus-daemon[459]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.681' (uid=1000 pid=2562118 comm="eom " label="kernel")
+Jul 18 17:55:53 jetson-orin-nano systemd[1]: Starting Hostname Service...
+Jul 18 17:55:53 jetson-orin-nano dbus-daemon[459]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jul 18 17:55:53 jetson-orin-nano systemd[1]: Started Hostname Service.
+Jul 18 17:56:06 jetson-orin-nano xdg-desktop-por[2562125]: Failed to create settings proxy: Error calling StartServiceByName for org.freedesktop.impl.portal.desktop.gnome: Timeout was reached
+Jul 18 17:56:06 jetson-orin-nano dbus-daemon[1903]: [session uid=1000 pid=1903] Activating via systemd: service name='org.freedesktop.impl.portal.desktop.gtk' unit='xdg-desktop-portal-gtk.service' requested by ':1.141' (uid=1000 pid=2562125 comm="/usr/libexec/xdg-desktop-portal " label="kernel")
+Jul 18 17:56:06 jetson-orin-nano systemd[1813]: Starting Portal service (GTK/GNOME implementation)...
+Jul 18 17:56:06 jetson-orin-nano xdg-desktop-por[2562666]: cannot open display: 
+Jul 18 17:56:06 jetson-orin-nano systemd[1813]: xdg-desktop-portal-gtk.service: Main process exited, code=exited, status=1/FAILURE
+Jul 18 17:56:06 jetson-orin-nano systemd[1813]: xdg-desktop-portal-gtk.service: Failed with result 'exit-code'.
+Jul 18 17:56:06 jetson-orin-nano systemd[1813]: Failed to start Portal service (GTK/GNOME implementation).
+Jul 18 17:56:23 jetson-orin-nano systemd[1]: systemd-hostnamed.service: Deactivated successfully.
+Jul 18 17:56:31 jetson-orin-nano xdg-desktop-por[2562125]: GError set over the top of a previous GError or uninitialized memory.#012This indicates a bug in someone's code. You must ensure an error is NULL before it's set.#012The overwriting error message was: Error calling StartServiceByName for org.freedesktop.impl.portal.desktop.gtk: Timeout was reached
+Jul 18 17:56:31 jetson-orin-nano xdg-desktop-por[2562125]: Failed to create settings proxy: Error calling StartServiceByName for org.freedesktop.impl.portal.desktop.gnome: Timeout was reached
+Jul 18 17:56:31 jetson-orin-nano xdg-desktop-por[2562125]: No skeleton to export
+Jul 18 17:56:46 jetson-orin-nano systemd[1813]: xdg-desktop-portal.service: start operation timed out. Terminating.
+Jul 18 17:56:46 jetson-orin-nano systemd[1813]: xdg-desktop-portal.service: Failed with result 'timeout'.
+Jul 18 17:56:46 jetson-orin-nano systemd[1813]: Failed to start Portal service.
+Jul 18 18:04:26 jetson-orin-nano systemd[1]: Starting Refresh fwupd metadata and update motd...
+Jul 18 18:04:26 jetson-orin-nano fwupdmgr[2565942]: Updating lvfs
+Jul 18 18:04:26 jetson-orin-nano fwupdmgr[2565942]: Successfully downloaded new metadata:
+Jul 18 18:04:26 jetson-orin-nano fwupdmgr[2565942]:  • 1 device is updatable
+Jul 18 18:04:26 jetson-orin-nano fwupdmgr[2565942]:  • 0 devices are supported in the enabled remotes (an update has been published)
+Jul 18 18:04:26 jetson-orin-nano systemd[1]: fwupd-refresh.service: Deactivated successfully.
+Jul 18 18:04:26 jetson-orin-nano systemd[1]: Finished Refresh fwupd metadata and update motd.
+Jul 18 18:11:02 jetson-orin-nano systemd[1]: Starting Daily apt download activities...
+Jul 18 18:11:04 jetson-orin-nano systemd[1]: apt-daily.service: Deactivated successfully.
+Jul 18 18:11:04 jetson-orin-nano systemd[1]: Finished Daily apt download activities.
+Jul 18 18:11:04 jetson-orin-nano systemd[1]: apt-daily.service: Consumed 1.973s CPU time.
+Jul 18 18:17:01 jetson-orin-nano CRON[2571268]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jul 18 18:30:01 jetson-orin-nano CRON[2576418]: (root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+Jul 18 18:34:26 jetson-orin-nano systemd[1]: Started Run anacron jobs.
+Jul 18 18:34:26 jetson-orin-nano anacron[2578017]: Anacron 2.3 started on 2026-07-18
+Jul 18 18:34:26 jetson-orin-nano anacron[2578017]: Normal exit (0 jobs run)
+Jul 18 18:34:26 jetson-orin-nano systemd[1]: anacron.service: Deactivated successfully.
+Jul 18 19:17:01 jetson-orin-nano CRON[2593580]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jul 18 19:30:01 jetson-orin-nano CRON[2599419]: (root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+Jul 18 19:30:51 jetson-orin-nano snapd[495]: storehelpers.go:914: cannot refresh: snap has no updates available: "bare", "core24", "gnome-46-2404", "gtk-common-themes", "mesa-2404", "snapd"
+Jul 18 19:33:47 jetson-orin-nano systemd[1]: Starting Refresh fwupd metadata and update motd...
+Jul 18 19:33:47 jetson-orin-nano fwupdmgr[2601137]: Updating lvfs
+Jul 18 19:33:47 jetson-orin-nano fwupdmgr[2601137]: Successfully downloaded new metadata:
+Jul 18 19:33:47 jetson-orin-nano fwupdmgr[2601137]:  • 1 device is updatable
+Jul 18 19:33:47 jetson-orin-nano fwupdmgr[2601137]:  • 0 devices are supported in the enabled remotes (an update has been published)
+Jul 18 19:33:47 jetson-orin-nano systemd[1]: fwupd-refresh.service: Deactivated successfully.
+Jul 18 19:33:47 jetson-orin-nano systemd[1]: Finished Refresh fwupd metadata and update motd.
+Jul 18 19:35:02 jetson-orin-nano systemd[1]: Started Run anacron jobs.
+Jul 18 19:35:02 jetson-orin-nano anacron[2601647]: Anacron 2.3 started on 2026-07-18
+Jul 18 19:35:02 jetson-orin-nano anacron[2601647]: Normal exit (0 jobs run)
+Jul 18 19:35:02 jetson-orin-nano systemd[1]: anacron.service: Deactivated successfully.
+Jul 18 19:54:50 jetson-orin-nano systemd[1]: session-494.scope: Deactivated successfully.
+Jul 18 19:54:50 jetson-orin-nano systemd[1]: session-493.scope: Deactivated successfully.
+Jul 18 19:54:50 jetson-orin-nano systemd[1]: session-493.scope: Consumed 3min 14.572s CPU time.
+Jul 18 19:56:55 jetson-orin-nano systemd[1]: session-397.scope: Deactivated successfully.
+Jul 18 19:56:55 jetson-orin-nano systemd[1]: session-397.scope: Consumed 7min 22.993s CPU time.
+Jul 18 20:17:01 jetson-orin-nano CRON[2608900]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jul 18 20:30:01 jetson-orin-nano CRON[2608943]: (root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+Jul 18 20:31:47 jetson-orin-nano systemd[1]: Started Run anacron jobs.
+Jul 18 20:31:47 jetson-orin-nano anacron[2608973]: Anacron 2.3 started on 2026-07-18
+Jul 18 20:31:47 jetson-orin-nano anacron[2608973]: Normal exit (0 jobs run)
+Jul 18 20:31:47 jetson-orin-nano systemd[1]: anacron.service: Deactivated successfully.
+Jul 18 20:47:26 jetson-orin-nano systemd[1]: Started Session 502 of User mason.
+Jul 18 20:47:26 jetson-orin-nano systemd[1]: session-502.scope: Deactivated successfully.
+Jul 18 20:47:31 jetson-orin-nano NetworkManager[460]: <info>  [1784429251.7673] dhcp4 (wlP1p1s0): state changed new lease, address=10.0.0.91
+Jul 18 20:47:34 jetson-orin-nano systemd[1]: Started Session 503 of User mason.
