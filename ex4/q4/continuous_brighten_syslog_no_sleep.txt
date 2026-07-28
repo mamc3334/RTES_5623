@@ -1,0 +1,912 @@
+Jul  7 21:20:26 jetson-orin-nano video_brightener[1723984]: Initializing capture routine loop...
+Jul  7 21:20:26 jetson-orin-nano video_brightener[1723984]: FORCING FORMAT: 640x480 YUYV
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: frame -7: ignored
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: frame -6: ignored
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: frame -5: ignored
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: frame -4: ignored
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: frame -3: ignored
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: frame -2: ignored
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: frame -1: ignored
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: frame 0: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame written at 0.020156; wrote 921600 bytes
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: frame 1: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame written at 0.050365; wrote 921600 bytes
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame #1 read at 0.050479 - Inst FPS=19.810181 - Avg FPS=19.810181
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: frame 2: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame written at 0.086620; wrote 921600 bytes
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame #2 read at 0.086729 - Inst FPS=27.586102 - Avg FPS=23.060276
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: frame 3: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame written at 0.118217; wrote 921600 bytes
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame #3 read at 0.118326 - Inst FPS=31.648832 - Avg FPS=25.353689
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: frame 4: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame written at 0.150815; wrote 921600 bytes
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame #4 read at 0.150907 - Inst FPS=30.692260 - Avg FPS=26.506307
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: frame 5: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame written at 0.186125; wrote 921600 bytes
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame #5 read at 0.186206 - Inst FPS=28.329406 - Avg FPS=26.851911
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: frame 6: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame written at 0.218605; wrote 921600 bytes
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame #6 read at 0.218689 - Inst FPS=30.785420 - Avg FPS=27.436172
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: frame 7: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame written at 0.250373; wrote 921600 bytes
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame #7 read at 0.250452 - Inst FPS=31.483978 - Avg FPS=27.949514
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: frame 8: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame written at 0.286130; wrote 921600 bytes
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame #8 read at 0.286208 - Inst FPS=27.966648 - Avg FPS=27.951654
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: frame 9: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame written at 0.318525; wrote 921600 bytes
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame #9 read at 0.318611 - Inst FPS=30.861337 - Avg FPS=28.247571
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: frame 10: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame written at 0.350266; wrote 921600 bytes
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame #10 read at 0.350351 - Inst FPS=31.506769 - Avg FPS=28.542831
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: frame 11: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame written at 0.386795; wrote 921600 bytes
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame #11 read at 0.386897 - Inst FPS=27.362715 - Avg FPS=28.431357
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: frame 12: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame written at 0.418252; wrote 921600 bytes
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame #12 read at 0.418330 - Inst FPS=31.813348 - Avg FPS=28.685480
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: frame 13: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame written at 0.450790; wrote 921600 bytes
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame #13 read at 0.450887 - Inst FPS=30.715641 - Avg FPS=28.832070
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: frame 14: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame written at 0.486242; wrote 921600 bytes
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame #14 read at 0.486332 - Inst FPS=28.212191 - Avg FPS=28.786891
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: frame 15: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame written at 0.518583; wrote 921600 bytes
+Jul  7 21:20:27 jetson-orin-nano video_brightener[1723984]: Frame #15 read at 0.518668 - Inst FPS=30.925750 - Avg FPS=28.920235
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 16: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 0.553969; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #16 read at 0.554057 - Inst FPS=28.257218 - Avg FPS=28.877886
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 17: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 0.579179; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #17 read at 0.579255 - Inst FPS=39.686050 - Avg FPS=29.348044
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 18: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 0.619018; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #18 read at 0.619134 - Inst FPS=25.075878 - Avg FPS=29.072870
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 19: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 0.652377; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #19 read at 0.652469 - Inst FPS=29.998361 - Avg FPS=29.120155
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 20: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 0.687020; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #20 read at 0.687126 - Inst FPS=28.854644 - Avg FPS=29.106763
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 21: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 0.718413; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #21 read at 0.718510 - Inst FPS=31.862458 - Avg FPS=29.227133
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 22: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 0.754881; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #22 read at 0.754977 - Inst FPS=27.422408 - Avg FPS=29.139962
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 23: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 0.786222; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #23 read at 0.786317 - Inst FPS=31.908429 - Avg FPS=29.250303
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 24: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 0.818615; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #24 read at 0.818731 - Inst FPS=30.850399 - Avg FPS=29.313653
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 25: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 0.854789; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #25 read at 0.854897 - Inst FPS=27.650396 - Avg FPS=29.243290
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 26: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 0.886251; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #26 read at 0.886335 - Inst FPS=31.808750 - Avg FPS=29.334285
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 27: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 0.918783; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #27 read at 0.918868 - Inst FPS=30.737877 - Avg FPS=29.383981
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 28: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 0.954316; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #28 read at 0.954402 - Inst FPS=28.142119 - Avg FPS=29.337744
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 29: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 0.986531; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #29 read at 0.986604 - Inst FPS=31.053502 - Avg FPS=29.393746
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 30: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 1.017774; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #30 read at 1.017846 - Inst FPS=32.008213 - Avg FPS=29.473995
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 31: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 1.054221; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #31 read at 1.054301 - Inst FPS=27.431315 - Avg FPS=29.403365
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 32: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 1.085882; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #32 read at 1.085956 - Inst FPS=31.590794 - Avg FPS=29.467127
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 33: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 1.121718; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #33 read at 1.121797 - Inst FPS=27.901300 - Avg FPS=29.417100
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 34: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 1.154348; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #34 read at 1.154426 - Inst FPS=30.646900 - Avg FPS=29.451860
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 35: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 1.185786; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #35 read at 1.185867 - Inst FPS=31.806223 - Avg FPS=29.514280
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 36: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 1.222220; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #36 read at 1.222302 - Inst FPS=27.446181 - Avg FPS=29.452633
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 37: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 1.253840; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #37 read at 1.253918 - Inst FPS=31.629323 - Avg FPS=29.507516
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 38: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 1.286215; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #38 read at 1.286282 - Inst FPS=30.898321 - Avg FPS=29.542510
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 39: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 1.321760; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #39 read at 1.321842 - Inst FPS=28.121428 - Avg FPS=29.504280
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 40: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 1.354234; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #40 read at 1.354323 - Inst FPS=30.786967 - Avg FPS=29.535044
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 41: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 1.385850; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #41 read at 1.385924 - Inst FPS=31.644568 - Avg FPS=29.583144
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 42: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 1.421874; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #42 read at 1.421964 - Inst FPS=27.747179 - Avg FPS=29.536611
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 43: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 1.454265; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #43 read at 1.454358 - Inst FPS=30.869660 - Avg FPS=29.566303
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 44: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 1.485816; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #44 read at 1.485889 - Inst FPS=31.715033 - Avg FPS=29.611900
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: frame 45: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame written at 1.521985; wrote 921600 bytes
+Jul  7 21:20:28 jetson-orin-nano video_brightener[1723984]: Frame #45 read at 1.522053 - Inst FPS=27.651570 - Avg FPS=29.565322
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 46: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 1.553748; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #46 read at 1.553818 - Inst FPS=31.481250 - Avg FPS=29.604490
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 47: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 1.580588; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #47 read at 1.580674 - Inst FPS=37.236754 - Avg FPS=29.734160
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 48: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 1.618461; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #48 read at 1.618563 - Inst FPS=26.392688 - Avg FPS=29.655938
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 49: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 1.654475; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #49 read at 1.654576 - Inst FPS=27.767791 - Avg FPS=29.614842
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 50: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 1.689662; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #50 read at 1.689752 - Inst FPS=28.428034 - Avg FPS=29.590135
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 51: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 1.722038; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #51 read at 1.722134 - Inst FPS=30.882107 - Avg FPS=29.614428
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 52: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 1.754574; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #52 read at 1.754663 - Inst FPS=30.741114 - Avg FPS=29.635316
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 53: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 1.789981; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #53 read at 1.790069 - Inst FPS=28.243962 - Avg FPS=29.607796
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 54: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 1.822387; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #54 read at 1.822475 - Inst FPS=30.858930 - Avg FPS=29.630042
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 55: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 1.853929; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #55 read at 1.854005 - Inst FPS=31.714999 - Avg FPS=29.665501
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 56: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 1.890259; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #56 read at 1.890339 - Inst FPS=27.523028 - Avg FPS=29.624322
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 57: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 1.922009; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #57 read at 1.922104 - Inst FPS=31.480837 - Avg FPS=29.655003
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 58: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 1.953909; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #58 read at 1.953986 - Inst FPS=31.365222 - Avg FPS=29.682908
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 59: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 1.990306; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #59 read at 1.990385 - Inst FPS=27.473351 - Avg FPS=29.642501
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 60: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 2.021758; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #60 read at 2.021834 - Inst FPS=31.797550 - Avg FPS=29.676022
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 61: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 2.054188; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #61 read at 2.054276 - Inst FPS=30.824655 - Avg FPS=29.694162
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 62: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 2.089790; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #62 read at 2.089872 - Inst FPS=28.092683 - Avg FPS=29.666884
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 63: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 2.122151; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #63 read at 2.122236 - Inst FPS=30.898809 - Avg FPS=29.685671
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 64: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 2.153894; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #64 read at 2.153974 - Inst FPS=31.507946 - Avg FPS=29.712521
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 65: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 2.190037; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #65 read at 2.190120 - Inst FPS=27.665402 - Avg FPS=29.678735
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 66: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 2.221649; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #66 read at 2.221723 - Inst FPS=31.643190 - Avg FPS=29.706678
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 67: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 2.257696; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #67 read at 2.257779 - Inst FPS=27.734521 - Avg FPS=29.675183
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 68: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 2.290200; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #68 read at 2.290281 - Inst FPS=30.767354 - Avg FPS=29.690682
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 69: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 2.321735; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #69 read at 2.321817 - Inst FPS=31.709368 - Avg FPS=29.718102
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 70: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 2.358268; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #70 read at 2.358361 - Inst FPS=27.364609 - Avg FPS=29.681633
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 71: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 2.389799; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #71 read at 2.389879 - Inst FPS=31.727267 - Avg FPS=29.708612
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 72: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 2.422349; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #72 read at 2.422446 - Inst FPS=30.706707 - Avg FPS=29.722030
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 73: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 2.457872; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #73 read at 2.457951 - Inst FPS=28.164363 - Avg FPS=29.699529
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 74: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 2.490189; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #74 read at 2.490265 - Inst FPS=30.946484 - Avg FPS=29.715709
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: frame 75: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame written at 2.521884; wrote 921600 bytes
+Jul  7 21:20:29 jetson-orin-nano video_brightener[1723984]: Frame #75 read at 2.521963 - Inst FPS=31.547897 - Avg FPS=29.738738
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 76: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 2.557818; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #76 read at 2.557903 - Inst FPS=27.824261 - Avg FPS=29.711838
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 77: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 2.590027; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #77 read at 2.590105 - Inst FPS=31.053627 - Avg FPS=29.728521
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 78: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 2.614670; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #78 read at 2.614734 - Inst FPS=40.602667 - Avg FPS=29.830947
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 79: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 2.658513; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #79 read at 2.658617 - Inst FPS=22.787886 - Avg FPS=29.714695
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 80: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 2.689986; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #80 read at 2.690081 - Inst FPS=31.782771 - Avg FPS=29.738883
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 81: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 2.722418; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #81 read at 2.722507 - Inst FPS=30.839621 - Avg FPS=29.751994
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 82: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 2.757968; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #82 read at 2.758049 - Inst FPS=28.135809 - Avg FPS=29.731166
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 83: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 2.790492; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #83 read at 2.790585 - Inst FPS=30.734432 - Avg FPS=29.742864
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 84: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 2.825923; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #84 read at 2.826026 - Inst FPS=28.216572 - Avg FPS=29.723723
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 85: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 2.857773; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #85 read at 2.857861 - Inst FPS=31.411442 - Avg FPS=29.742524
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 86: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 2.890263; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #86 read at 2.890348 - Inst FPS=30.781114 - Avg FPS=29.754198
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 87: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 2.926015; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #87 read at 2.926109 - Inst FPS=27.963920 - Avg FPS=29.732318
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 88: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 2.958263; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #88 read at 2.958350 - Inst FPS=31.016670 - Avg FPS=29.746316
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 89: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 2.989801; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #89 read at 2.989880 - Inst FPS=31.715902 - Avg FPS=29.767086
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 90: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 3.026151; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #90 read at 3.026230 - Inst FPS=27.510259 - Avg FPS=29.739978
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 91: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 3.057810; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #91 read at 3.057884 - Inst FPS=31.591399 - Avg FPS=29.759143
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 92: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 3.089810; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #92 read at 3.089886 - Inst FPS=31.247952 - Avg FPS=29.774563
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 93: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 3.126141; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #93 read at 3.126213 - Inst FPS=27.527852 - Avg FPS=29.748456
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 94: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 3.157738; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #94 read at 3.157816 - Inst FPS=31.642390 - Avg FPS=29.767410
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 95: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 3.190193; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #95 read at 3.190279 - Inst FPS=30.803749 - Avg FPS=29.777956
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 96: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 3.225676; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #96 read at 3.225763 - Inst FPS=28.181964 - Avg FPS=29.760399
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 97: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 3.257944; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #97 read at 3.258029 - Inst FPS=30.992523 - Avg FPS=29.772602
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 98: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 3.289724; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #98 read at 3.289794 - Inst FPS=31.481186 - Avg FPS=29.789099
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 99: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 3.326146; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #99 read at 3.326237 - Inst FPS=27.440276 - Avg FPS=29.763365
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 100: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 3.357725; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #100 read at 3.357813 - Inst FPS=31.669776 - Avg FPS=29.781292
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 101: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 3.390143; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #101 read at 3.390224 - Inst FPS=30.853415 - Avg FPS=29.791542
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 102: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 3.426168; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #102 read at 3.426268 - Inst FPS=27.744099 - Avg FPS=29.770003
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 103: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 3.457690; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #103 read at 3.457774 - Inst FPS=31.739320 - Avg FPS=29.787948
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 104: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 3.494073; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #104 read at 3.494150 - Inst FPS=27.490850 - Avg FPS=29.764034
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: frame 105: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame written at 3.525718; wrote 921600 bytes
+Jul  7 21:20:30 jetson-orin-nano video_brightener[1723984]: Frame #105 read at 3.525785 - Inst FPS=31.610157 - Avg FPS=29.780598
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 106: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 3.558068; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #106 read at 3.558139 - Inst FPS=30.908224 - Avg FPS=29.790852
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 107: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 3.594217; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #107 read at 3.594302 - Inst FPS=27.652940 - Avg FPS=29.769342
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 108: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 3.621110; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #108 read at 3.621172 - Inst FPS=37.216665 - Avg FPS=29.824602
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 109: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 3.654176; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #109 read at 3.654279 - Inst FPS=30.204519 - Avg FPS=29.828044
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 110: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 3.694466; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #110 read at 3.694593 - Inst FPS=24.805113 - Avg FPS=29.773236
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 111: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 3.726457; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #111 read at 3.726562 - Inst FPS=31.280859 - Avg FPS=29.786169
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 112: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 3.757836; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #112 read at 3.757924 - Inst FPS=31.886029 - Avg FPS=29.803693
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 113: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 3.794351; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #113 read at 3.794451 - Inst FPS=27.377003 - Avg FPS=29.780333
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 114: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 3.825682; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #114 read at 3.825768 - Inst FPS=31.930795 - Avg FPS=29.797936
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 115: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 3.857847; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #115 read at 3.857929 - Inst FPS=31.093888 - Avg FPS=29.808740
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 116: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 3.893440; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #116 read at 3.893519 - Inst FPS=28.098038 - Avg FPS=29.793103
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 117: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 3.926198; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #117 read at 3.926290 - Inst FPS=30.514863 - Avg FPS=29.799127
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 118: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 3.957539; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #118 read at 3.957622 - Inst FPS=31.915794 - Avg FPS=29.815885
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 119: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 3.993777; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #119 read at 3.993887 - Inst FPS=27.575002 - Avg FPS=29.795537
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 120: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 4.026011; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #120 read at 4.026108 - Inst FPS=31.035800 - Avg FPS=29.805463
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 121: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 4.061661; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #121 read at 4.061757 - Inst FPS=28.051075 - Avg FPS=29.790065
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 122: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 4.094174; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #122 read at 4.094269 - Inst FPS=30.757573 - Avg FPS=29.797748
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 123: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 4.125769; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #123 read at 4.125871 - Inst FPS=31.644120 - Avg FPS=29.811890
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 124: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 4.162023; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #124 read at 4.162136 - Inst FPS=27.574564 - Avg FPS=29.792396
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 125: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 4.193704; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #125 read at 4.193796 - Inst FPS=31.585110 - Avg FPS=29.805930
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 126: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 4.225730; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #126 read at 4.225827 - Inst FPS=31.219824 - Avg FPS=29.816647
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 127: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 4.261844; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #127 read at 4.261938 - Inst FPS=27.692909 - Avg FPS=29.798653
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 128: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 4.293635; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #128 read at 4.293729 - Inst FPS=31.455202 - Avg FPS=29.810918
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 129: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 4.325964; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #129 read at 4.326058 - Inst FPS=30.932117 - Avg FPS=29.819297
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 130: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 4.361508; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #130 read at 4.361595 - Inst FPS=28.139635 - Avg FPS=29.805611
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 131: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 4.393951; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #131 read at 4.394048 - Inst FPS=30.813500 - Avg FPS=29.813055
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 132: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 4.426420; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #132 read at 4.426523 - Inst FPS=30.793338 - Avg FPS=29.820247
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 133: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 4.462073; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #133 read at 4.462155 - Inst FPS=28.064451 - Avg FPS=29.806226
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 134: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 4.493668; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #134 read at 4.493748 - Inst FPS=31.652743 - Avg FPS=29.819208
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: frame 135: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame written at 4.525682; wrote 921600 bytes
+Jul  7 21:20:31 jetson-orin-nano video_brightener[1723984]: Frame #135 read at 4.525751 - Inst FPS=31.247234 - Avg FPS=29.829306
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 136: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 4.562116; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #136 read at 4.562204 - Inst FPS=27.432615 - Avg FPS=29.810156
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 137: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 4.593719; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #137 read at 4.593804 - Inst FPS=31.645050 - Avg FPS=29.822778
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 138: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 4.629937; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #138 read at 4.630017 - Inst FPS=27.614331 - Avg FPS=29.805505
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 139: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 4.655058; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #139 read at 4.655151 - Inst FPS=39.787463 - Avg FPS=29.859398
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 140: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 4.694380; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #140 read at 4.694508 - Inst FPS=25.408484 - Avg FPS=29.822084
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 141: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 4.730017; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #141 read at 4.730128 - Inst FPS=28.074032 - Avg FPS=29.808920
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 142: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 4.762140; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #142 read at 4.762244 - Inst FPS=31.136456 - Avg FPS=29.817873
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 143: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 4.794317; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #143 read at 4.794425 - Inst FPS=31.074718 - Avg FPS=29.826309
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 144: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 4.829682; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #144 read at 4.829799 - Inst FPS=28.269360 - Avg FPS=29.814906
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 145: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 4.862023; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #145 read at 4.862125 - Inst FPS=30.934904 - Avg FPS=29.822352
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 146: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 4.893950; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #146 read at 4.894054 - Inst FPS=31.319106 - Avg FPS=29.832117
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 147: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 4.930219; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #147 read at 4.930330 - Inst FPS=27.566659 - Avg FPS=29.815449
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 148: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 4.961878; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #148 read at 4.961985 - Inst FPS=31.590920 - Avg FPS=29.826775
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 149: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 4.993989; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #149 read at 4.994089 - Inst FPS=31.147971 - Avg FPS=29.835269
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 150: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 5.029982; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #150 read at 5.030085 - Inst FPS=27.781220 - Avg FPS=29.820570
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 151: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 5.062011; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #151 read at 5.062103 - Inst FPS=31.232461 - Avg FPS=29.829500
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 152: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 5.093766; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #152 read at 5.093865 - Inst FPS=31.484454 - Avg FPS=29.839819
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 153: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 5.130009; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #153 read at 5.130110 - Inst FPS=27.589609 - Avg FPS=29.823921
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 154: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 5.162019; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #154 read at 5.162112 - Inst FPS=31.248452 - Avg FPS=29.832752
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 155: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 5.198096; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #155 read at 5.198198 - Inst FPS=27.711721 - Avg FPS=29.818028
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 156: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 5.229950; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #156 read at 5.230041 - Inst FPS=31.403834 - Avg FPS=29.827683
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 157: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 5.261987; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #157 read at 5.262077 - Inst FPS=31.214492 - Avg FPS=29.836126
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 158: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 5.298131; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #158 read at 5.298235 - Inst FPS=27.656661 - Avg FPS=29.821252
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 159: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 5.329881; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #159 read at 5.329979 - Inst FPS=31.502164 - Avg FPS=29.831263
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 160: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 5.361943; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #160 read at 5.362039 - Inst FPS=31.191715 - Avg FPS=29.839398
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 161: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 5.397705; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #161 read at 5.397797 - Inst FPS=27.965397 - Avg FPS=29.826983
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 162: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 5.429990; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #162 read at 5.430101 - Inst FPS=30.955742 - Avg FPS=29.833698
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 163: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 5.462163; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #163 read at 5.462260 - Inst FPS=31.095961 - Avg FPS=29.841130
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 164: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 5.498655; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #164 read at 5.498749 - Inst FPS=27.404997 - Avg FPS=29.824963
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: frame 165: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame written at 5.530029; wrote 921600 bytes
+Jul  7 21:20:32 jetson-orin-nano video_brightener[1723984]: Frame #165 read at 5.530111 - Inst FPS=31.886290 - Avg FPS=29.836653
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 166: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 5.562064; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #166 read at 5.562152 - Inst FPS=31.210220 - Avg FPS=29.844566
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 167: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 5.598155; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #167 read at 5.598244 - Inst FPS=27.706980 - Avg FPS=29.830785
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 168: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 5.630031; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #168 read at 5.630120 - Inst FPS=31.370953 - Avg FPS=29.839505
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 169: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 5.658621; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #169 read at 5.658696 - Inst FPS=34.994325 - Avg FPS=29.865536
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 170: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 5.694698; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #170 read at 5.694816 - Inst FPS=27.685672 - Avg FPS=29.851710
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 171: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 5.730326; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #171 read at 5.730430 - Inst FPS=28.078825 - Avg FPS=29.840692
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 172: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 5.766092; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #172 read at 5.766186 - Inst FPS=27.967624 - Avg FPS=29.829077
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 173: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 5.798099; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #173 read at 5.798190 - Inst FPS=31.246045 - Avg FPS=29.836898
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 174: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 5.830250; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #174 read at 5.830347 - Inst FPS=31.096982 - Avg FPS=29.843848
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 175: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 5.866177; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #175 read at 5.866285 - Inst FPS=27.826268 - Avg FPS=29.831489
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 176: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 5.898020; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #176 read at 5.898098 - Inst FPS=31.433180 - Avg FPS=29.840128
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 177: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 5.930334; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #177 read at 5.930447 - Inst FPS=30.912932 - Avg FPS=29.845980
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 178: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 5.965735; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #178 read at 5.965828 - Inst FPS=28.263888 - Avg FPS=29.836597
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 179: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 5.997981; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #179 read at 5.998073 - Inst FPS=31.012207 - Avg FPS=29.842917
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 180: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 6.029938; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #180 read at 6.030031 - Inst FPS=31.291477 - Avg FPS=29.850594
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 181: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 6.065975; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #181 read at 6.066063 - Inst FPS=27.752625 - Avg FPS=29.838132
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 182: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 6.097971; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #182 read at 6.098042 - Inst FPS=31.270747 - Avg FPS=29.845645
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 183: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 6.130213; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #183 read at 6.130319 - Inst FPS=30.981583 - Avg FPS=29.851626
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 184: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 6.165874; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #184 read at 6.165971 - Inst FPS=28.048883 - Avg FPS=29.841202
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 185: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 6.198099; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #185 read at 6.198202 - Inst FPS=31.026247 - Avg FPS=29.847364
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 186: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 6.229710; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #186 read at 6.229800 - Inst FPS=31.648030 - Avg FPS=29.856497
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 187: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 6.265916; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #187 read at 6.266013 - Inst FPS=27.614306 - Avg FPS=29.843539
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 188: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 6.298025; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #188 read at 6.298119 - Inst FPS=31.147102 - Avg FPS=29.850184
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 189: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 6.334033; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #189 read at 6.334130 - Inst FPS=27.769222 - Avg FPS=29.838353
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 190: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 6.366076; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #190 read at 6.366174 - Inst FPS=31.206481 - Avg FPS=29.845240
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 191: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 6.397904; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #191 read at 6.397993 - Inst FPS=31.427711 - Avg FPS=29.853110
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 192: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 6.434162; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #192 read at 6.434273 - Inst FPS=27.563741 - Avg FPS=29.840202
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 193: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 6.465930; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #193 read at 6.466018 - Inst FPS=31.500481 - Avg FPS=29.848353
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 194: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 6.497913; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #194 read at 6.497997 - Inst FPS=31.270591 - Avg FPS=29.855352
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: frame 195: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame written at 6.533690; wrote 921600 bytes
+Jul  7 21:20:33 jetson-orin-nano video_brightener[1723984]: Frame #195 read at 6.533769 - Inst FPS=27.955239 - Avg FPS=29.844949
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 196: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 6.566127; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #196 read at 6.566221 - Inst FPS=30.814411 - Avg FPS=29.849741
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 197: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 6.597972; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #197 read at 6.598057 - Inst FPS=31.411537 - Avg FPS=29.857276
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 198: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 6.633944; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #198 read at 6.634046 - Inst FPS=27.785814 - Avg FPS=29.846039
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 199: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 6.665911; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #199 read at 6.665991 - Inst FPS=31.304360 - Avg FPS=29.853027
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 200: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 6.691350; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #200 read at 6.691424 - Inst FPS=39.318389 - Avg FPS=29.889004
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 201: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 6.734376; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #201 read at 6.734508 - Inst FPS=23.210317 - Avg FPS=29.846277
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 202: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 6.766120; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #202 read at 6.766235 - Inst FPS=31.519004 - Avg FPS=29.854120
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 203: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 6.798260; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #203 read at 6.798365 - Inst FPS=31.124053 - Avg FPS=29.860122
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 204: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 6.834140; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #204 read at 6.834239 - Inst FPS=27.874869 - Avg FPS=29.849701
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 205: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 6.866542; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #205 read at 6.866643 - Inst FPS=30.860910 - Avg FPS=29.854473
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 206: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 6.901980; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #206 read at 6.902060 - Inst FPS=28.235184 - Avg FPS=29.846164
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 207: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 6.934068; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #207 read at 6.934167 - Inst FPS=31.145798 - Avg FPS=29.852181
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 208: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 6.966054; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #208 read at 6.966147 - Inst FPS=31.269027 - Avg FPS=29.858686
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 209: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 7.001958; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #209 read at 7.002053 - Inst FPS=27.850373 - Avg FPS=29.848387
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 210: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 7.034115; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #210 read at 7.034213 - Inst FPS=31.095002 - Avg FPS=29.854087
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 211: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 7.066012; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #211 read at 7.066102 - Inst FPS=31.358298 - Avg FPS=29.860875
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 212: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 7.101744; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #212 read at 7.101838 - Inst FPS=27.983402 - Avg FPS=29.851428
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 213: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 7.134260; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #213 read at 7.134357 - Inst FPS=30.751399 - Avg FPS=29.855530
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 214: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 7.165982; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #214 read at 7.166071 - Inst FPS=31.531121 - Avg FPS=29.862946
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 215: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 7.201956; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #215 read at 7.202047 - Inst FPS=27.796294 - Avg FPS=29.852622
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 216: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 7.234064; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #216 read at 7.234167 - Inst FPS=31.133572 - Avg FPS=29.858310
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 217: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 7.266085; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #217 read at 7.266178 - Inst FPS=31.239612 - Avg FPS=29.864395
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 218: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 7.302022; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #218 read at 7.302112 - Inst FPS=27.828201 - Avg FPS=29.854375
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 219: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 7.334033; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #219 read at 7.334129 - Inst FPS=31.234147 - Avg FPS=29.860398
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 220: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 7.365897; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #220 read at 7.365990 - Inst FPS=31.385635 - Avg FPS=29.866995
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 221: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 7.401988; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #221 read at 7.402083 - Inst FPS=27.706438 - Avg FPS=29.856460
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 222: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 7.434266; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #222 read at 7.434353 - Inst FPS=30.988343 - Avg FPS=29.861374
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 223: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 7.469996; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #223 read at 7.470087 - Inst FPS=27.984430 - Avg FPS=29.852395
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 224: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 7.501956; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #224 read at 7.502034 - Inst FPS=31.302322 - Avg FPS=29.858569
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: frame 225: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame written at 7.533956; wrote 921600 bytes
+Jul  7 21:20:34 jetson-orin-nano video_brightener[1723984]: Frame #225 read at 7.534033 - Inst FPS=31.250576 - Avg FPS=29.864482
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 226: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 7.569830; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #226 read at 7.569918 - Inst FPS=27.867089 - Avg FPS=29.855013
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 227: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 7.601837; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #227 read at 7.601922 - Inst FPS=31.246358 - Avg FPS=29.860871
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 228: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 7.633865; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #228 read at 7.633938 - Inst FPS=31.233617 - Avg FPS=29.866628
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 229: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 7.669665; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #229 read at 7.669744 - Inst FPS=27.928880 - Avg FPS=29.857582
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 230: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 7.700680; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #230 read at 7.700752 - Inst FPS=32.249416 - Avg FPS=29.867213
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 231: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 7.727675; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #231 read at 7.727766 - Inst FPS=37.018315 - Avg FPS=29.892211
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 232: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 7.770739; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #232 read at 7.770898 - Inst FPS=23.184297 - Avg FPS=29.854978
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 233: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 7.802181; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #233 read at 7.802294 - Inst FPS=31.851773 - Avg FPS=29.863013
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 234: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 7.834049; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #234 read at 7.834145 - Inst FPS=31.396135 - Avg FPS=29.869246
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 235: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 7.870202; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #235 read at 7.870307 - Inst FPS=27.653479 - Avg FPS=29.859065
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 236: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 7.902117; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #236 read at 7.902215 - Inst FPS=31.339554 - Avg FPS=29.865043
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 237: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 7.933746; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #237 read at 7.933828 - Inst FPS=31.633101 - Avg FPS=29.872088
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 238: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 7.970371; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #238 read at 7.970490 - Inst FPS=27.276255 - Avg FPS=29.860148
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 239: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 8.002042; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #239 read at 8.002138 - Inst FPS=31.597310 - Avg FPS=29.867019
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 240: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 8.034002; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #240 read at 8.034088 - Inst FPS=31.298748 - Avg FPS=29.872712
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 241: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 8.070047; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #241 read at 8.070127 - Inst FPS=27.747474 - Avg FPS=29.863222
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 242: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 8.102114; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #242 read at 8.102212 - Inst FPS=31.167077 - Avg FPS=29.868385
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 243: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 8.137985; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #243 read at 8.138070 - Inst FPS=27.888053 - Avg FPS=29.859659
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 244: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 8.169949; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #244 read at 8.170039 - Inst FPS=31.280106 - Avg FPS=29.865217
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 245: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 8.202041; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #245 read at 8.202129 - Inst FPS=31.162384 - Avg FPS=29.870292
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 246: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 8.237767; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #246 read at 8.237861 - Inst FPS=27.986309 - Avg FPS=29.862121
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 247: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 8.270121; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #247 read at 8.270219 - Inst FPS=30.904127 - Avg FPS=29.866198
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 248: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 8.302402; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #248 read at 8.302507 - Inst FPS=30.971511 - Avg FPS=29.870496
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 249: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 8.337949; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #249 read at 8.338045 - Inst FPS=28.139001 - Avg FPS=29.863116
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 250: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 8.369984; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #250 read at 8.370076 - Inst FPS=31.219107 - Avg FPS=29.868306
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 251: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 8.401998; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #251 read at 8.402088 - Inst FPS=31.238268 - Avg FPS=29.873525
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 252: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 8.437926; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #252 read at 8.438009 - Inst FPS=27.839506 - Avg FPS=29.864866
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 253: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 8.470247; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #253 read at 8.470360 - Inst FPS=30.910760 - Avg FPS=29.868861
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 254: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 8.501944; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #254 read at 8.502033 - Inst FPS=31.572536 - Avg FPS=29.875208
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: frame 255: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame written at 8.538038; wrote 921600 bytes
+Jul  7 21:20:35 jetson-orin-nano video_brightener[1723984]: Frame #255 read at 8.538122 - Inst FPS=27.709042 - Avg FPS=29.866052
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 256: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 8.691573; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #256 read at 8.691784 - Inst FPS=6.507792 - Avg FPS=29.453101
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 257: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 8.706720; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #257 read at 8.706833 - Inst FPS=66.451960 - Avg FPS=29.517048
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 258: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 8.722179; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #258 read at 8.722274 - Inst FPS=64.759478 - Avg FPS=29.579441
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 259: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 8.732821; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #259 read at 8.732880 - Inst FPS=94.290334 - Avg FPS=29.658028
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 260: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 8.742707; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #260 read at 8.742763 - Inst FPS=101.180308 - Avg FPS=29.738881
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 261: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 8.753010; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #261 read at 8.753077 - Inst FPS=96.957277 - Avg FPS=29.818085
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 262: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 8.763405; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #262 read at 8.763458 - Inst FPS=96.329323 - Avg FPS=29.896874
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 263: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 8.797846; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #263 read at 8.797928 - Inst FPS=29.011140 - Avg FPS=29.893403
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 264: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 8.831035; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #264 read at 8.831110 - Inst FPS=30.136184 - Avg FPS=29.894316
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 265: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 8.863597; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #265 read at 8.863665 - Inst FPS=30.717452 - Avg FPS=29.897339
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 266: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 8.902538; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #266 read at 8.902664 - Inst FPS=25.641554 - Avg FPS=29.878696
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 267: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 8.935245; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #267 read at 8.935349 - Inst FPS=30.595769 - Avg FPS=29.881319
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 268: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 8.968528; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #268 read at 8.968632 - Inst FPS=30.045201 - Avg FPS=29.881927
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 269: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 9.004703; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #269 read at 9.004815 - Inst FPS=27.637068 - Avg FPS=29.872907
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 270: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 9.038326; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #270 read at 9.038427 - Inst FPS=29.751002 - Avg FPS=29.872453
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 271: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 9.070335; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #271 read at 9.070428 - Inst FPS=31.249796 - Avg FPS=29.877313
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 272: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 9.105729; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #272 read at 9.105820 - Inst FPS=28.255020 - Avg FPS=29.871007
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 273: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 9.138171; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #273 read at 9.138270 - Inst FPS=30.815748 - Avg FPS=29.874362
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 274: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 9.170357; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #274 read at 9.170458 - Inst FPS=31.067519 - Avg FPS=29.878550
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 275: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 9.206149; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #275 read at 9.206254 - Inst FPS=27.936420 - Avg FPS=29.870999
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 276: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 9.238659; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #276 read at 9.238761 - Inst FPS=30.762599 - Avg FPS=29.874136
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 277: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 9.274432; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #277 read at 9.274531 - Inst FPS=27.956089 - Avg FPS=29.866738
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 278: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 9.306092; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #278 read at 9.306189 - Inst FPS=31.588047 - Avg FPS=29.872594
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 279: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 9.338207; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #279 read at 9.338293 - Inst FPS=31.148530 - Avg FPS=29.876980
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 280: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 9.373872; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #280 read at 9.373956 - Inst FPS=28.040577 - Avg FPS=29.869994
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 281: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 9.406142; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #281 read at 9.406228 - Inst FPS=30.986068 - Avg FPS=29.873823
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 282: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 9.438028; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #282 read at 9.438098 - Inst FPS=31.378229 - Avg FPS=29.878903
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 283: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 9.474053; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #283 read at 9.474126 - Inst FPS=27.755952 - Avg FPS=29.870830
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 284: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 9.505972; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #284 read at 9.506038 - Inst FPS=31.335657 - Avg FPS=29.875747
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: frame 285: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame written at 9.538137; wrote 921600 bytes
+Jul  7 21:20:36 jetson-orin-nano video_brightener[1723984]: Frame #285 read at 9.538201 - Inst FPS=31.092125 - Avg FPS=29.879849
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: frame 286: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame written at 9.574117; wrote 921600 bytes
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame #286 read at 9.574198 - Inst FPS=27.780281 - Avg FPS=29.871955
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: frame 287: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame written at 9.606034; wrote 921600 bytes
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame #287 read at 9.606117 - Inst FPS=31.329343 - Avg FPS=29.876797
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: frame 288: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame written at 9.638222; wrote 921600 bytes
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame #288 read at 9.638318 - Inst FPS=31.054583 - Avg FPS=29.880732
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: frame 289: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame written at 9.673931; wrote 921600 bytes
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame #289 read at 9.674007 - Inst FPS=28.019483 - Avg FPS=29.873866
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: frame 290: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame written at 9.706419; wrote 921600 bytes
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame #290 read at 9.706517 - Inst FPS=30.759844 - Avg FPS=29.876833
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: frame 291: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame written at 9.737596; wrote 921600 bytes
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame #291 read at 9.737695 - Inst FPS=32.073819 - Avg FPS=29.883867
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: frame 292: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame written at 9.768356; wrote 921600 bytes
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame #292 read at 9.768465 - Inst FPS=32.499825 - Avg FPS=29.892107
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: frame 293: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame written at 9.806419; wrote 921600 bytes
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame #293 read at 9.806518 - Inst FPS=26.278741 - Avg FPS=29.878086
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: frame 294: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame written at 9.842201; wrote 921600 bytes
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame #294 read at 9.842298 - Inst FPS=27.948838 - Avg FPS=29.871073
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: frame 295: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame written at 9.874083; wrote 921600 bytes
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame #295 read at 9.874174 - Inst FPS=31.372055 - Avg FPS=29.875918
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: frame 296: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame written at 9.906215; wrote 921600 bytes
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame #296 read at 9.906315 - Inst FPS=31.112246 - Avg FPS=29.879929
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: frame 297: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame written at 9.942194; wrote 921600 bytes
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame #297 read at 9.942287 - Inst FPS=27.799706 - Avg FPS=29.872403
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: frame 298: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame written at 9.974496; wrote 921600 bytes
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame #298 read at 9.974591 - Inst FPS=30.955589 - Avg FPS=29.875911
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: frame 299: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame written at 10.006165; wrote 921600 bytes
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame #299 read at 10.006256 - Inst FPS=31.580449 - Avg FPS=29.881305
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: frame 300: Processed YUYV to Brightened RGB size 614400
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame written at 10.042401; wrote 921600 bytes
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Frame #300 read at 10.042502 - Inst FPS=27.589560 - Avg FPS=29.873034
+Jul  7 21:20:37 jetson-orin-nano video_brightener[1723984]: Capture cleanup completed successfully.
