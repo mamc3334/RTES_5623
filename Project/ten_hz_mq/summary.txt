@@ -1,0 +1,52 @@
+ten_hz_mq_181.txt
+
+Parsed 544 ACQ frames | 182 PRO frames | WB 182 frames.
+================================================
+  OUTPUT FPS  (from WB completion timestamps)
+================================================
+  Min : -0.5888 FPS
+  Max : 14.7777 FPS
+  Avg : 9.9605 FPS
+  Std : 0.9146 FPS
+  Overall Avg : 11.1041 FPS
+================================================
+  ACQ DURATION (ms)
+================================================
+  Min : -33.2686 ms
+  Max : 1767.1571 ms
+  Avg : -29.9186 ms
+  Std : 77.1199 ms
+================================================
+  PRO DURATION (ms)
+================================================
+  Min : 4.9494 ms
+  Max : 5.9018 ms
+  Avg : 5.1200 ms
+  Std : 0.1485 ms
+================================================
+  WB DURATION (ms)
+================================================
+  Min : 7.4213 ms
+  Max : 40.4612 ms
+  Avg : 8.4578 ms
+  Std : 2.8708 ms
+================================================
+  ACQ JITTER  (nominal period = 33.33 ms)
+================================================
+  Max |jitter| : 1800.3916 ms
+  Avg |jitter| : 3.3199 ms
+  Max |drift|  : 1800.4121 ms
+  Avg |drift|  : 1797.0970 ms
+================================================
+  PRO JITTER  (nominal period = 100.00 ms)
+================================================
+  Max |jitter| : 1800.3930 ms
+  Avg |jitter| : 9.9553 ms
+  Max |drift|  : 1800.4227 ms
+  Avg |drift|  : 1790.5096 ms
+================================================
+
+FPS plot saved to 'graphs_ten_hz_mq_181/fps_performance.png'
+Stage duration plot saved to 'graphs_ten_hz_mq_181/execution_times.png'
+Jitter plot saved to 'graphs_ten_hz_mq_181/jitter.png'
+Drift plot saved to 'graphs_ten_hz_mq_181/drift.png'

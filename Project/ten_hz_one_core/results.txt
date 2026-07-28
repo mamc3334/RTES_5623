@@ -1,0 +1,1 @@
+RM on one core (Core 0) may work with limited frames, a stripped down system without anything else running, and a little luck. However it is not reliable and consistently recieve push back from the SD card writer. 

@@ -1,0 +1,118 @@
+The two final product implementations are the applications found in one_hz/ and ten_hz/.
+All supporting figures, traces, metrics, are organized by test.
+Frames are zipped for each test and will fill the frames/ directory.
+If cloning from github, you may need to use Git LFS to extract zip files. 
+
+$ tree
+.
+├── one_hz
+│   ├── frames
+│   ├── frames_one_hz_1801.zip
+│   ├── frames_one_hz_181.zip
+│   ├── graphs_one_hz_1801
+│   │   ├── drift.png
+│   │   ├── execution_times.png
+│   │   ├── fps_performance.png
+│   │   ├── jetson_stats.csv
+│   │   ├── jitter.png
+│   │   ├── one_hz_1801.txt
+│   │   ├── overall_CPU.png
+│   │   ├── per_core_cpu_usage.png
+│   │   ├── ram_usage.png
+│   │   └── summary.txt
+│   ├── graphs_one_hz_181
+│   │   ├── drift.png
+│   │   ├── execution_times.png
+│   │   ├── fps_performance.png
+│   │   ├── jetson_stats.csv
+│   │   ├── jitter.png
+│   │   ├── one_hz_181.txt
+│   │   ├── overall_CPU.png
+│   │   ├── per_core_cpu_usage.png
+│   │   ├── ram_usage.png
+│   │   └── summary.txt
+│   ├── Makefile
+│   ├── one_hz.c
+│   ├── parse_log.py
+│   └── parse_stats.py
+├── parse_test_001.txt
+├── reference.c
+├── ten_hz
+│   ├── frames
+│   ├── frames_ten_hz_1801.zip
+│   ├── frames_ten_hz_181.zip
+│   ├── graphs_ten_hz_1801
+│   │   ├── drift.png
+│   │   ├── execution_times.png
+│   │   ├── fps_performance.png
+│   │   ├── jetson_stats.csv
+│   │   ├── jitter.png
+│   │   ├── overall_CPU.png
+│   │   ├── per_core_cpu_usage.png
+│   │   ├── ram_usage.png
+│   │   ├── summary.txt
+│   │   └── ten_hz_1801.txt
+│   ├── graphs_ten_hz_181
+│   │   ├── drift.png
+│   │   ├── execution_times.png
+│   │   ├── fps_performance.png
+│   │   ├── jetson_stats.csv
+│   │   ├── jitter.png
+│   │   ├── overall_CPU.png
+│   │   ├── per_core_cpu_usage.png
+│   │   ├── ram_usage.png
+│   │   ├── summary.txt
+│   │   └── ten_hz_181.txt
+│   ├── Makefile
+│   ├── parse_log.py
+│   └── ten_hz.c
+├── ten_hz_mq                       # Backup ten_hz implementation using message queue for write-back feed
+│   ├── frames
+│   ├── graphs_ten_hz_mq_1
+│   │   ├── drift.png
+│   │   ├── fps_performance.png
+│   │   ├── jitter.png
+│   │   └── step_performance.png
+│   ├── graphs_ten_hz_mq_181
+│   │   ├── drift.png
+│   │   ├── execution_times.png
+│   │   ├── fps_performance.png
+│   │   ├── jitter.png
+│   │   ├── overall_CPU.png
+│   │   ├── per_core_cpu_usage.png
+│   │   └── ram_usage.png
+│   ├── jetson_stats.csv
+│   ├── Makefile
+│   ├── parse_log.py
+│   ├── summary.txt
+│   ├── ten_hz_mq_181.txt
+│   ├── ten_hz_mq_1.txt
+│   ├── ten_hz_mq_2.txt
+│   ├── ten_hz_mq.c
+│   └── ten_hz_mq_frames.zip
+└── ten_hz_one_core                 # Experimentation with running write-back as real-time service pinned to core 0. 
+    ├── frames
+    ├── graphs_one_core
+    │   ├── drift.png
+    │   ├── execution_times.png
+    │   ├── fps_performance.png
+    │   ├── jitter.png
+    │   ├── one_core_181.txt
+    │   ├── overall_CPU.png
+    │   ├── per_core_cpu_usage.png
+    │   ├── ram_usage.png
+    │   └── summary.txt
+    ├── graphs_one_core_1801
+    │   ├── drift.png
+    │   ├── execution_times.png
+    │   ├── fps_performance.png
+    │   ├── jitter.png
+    │   ├── one_core_1801.txt
+    │   ├── overall_CPU.png
+    │   ├── per_core_cpu_usage.png
+    │   ├── ram_usage.png
+    │   └── summary.txt
+    ├── Makefile
+    ├── parse_log.py
+    ├── results.txt
+    └── ten_hz.c
