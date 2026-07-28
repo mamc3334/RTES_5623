@@ -1,0 +1,52 @@
+one_hz_log.txt
+
+Parsed 905 ACQ frames | 181 PRO frames | WB 181 frames.
+================================================
+  OUTPUT FPS  (from WB completion timestamps)
+================================================
+  Min : 0.9966 FPS
+  Max : 1.0044 FPS
+  Avg : 1.0000 FPS
+  Std : 0.0005 FPS
+  Overall Avg : 1.0000 FPS
+================================================
+  ACQ DURATION (ms)
+================================================
+  Min : 0.1121 ms
+  Max : 0.1944 ms
+  Avg : 0.1288 ms
+  Std : 0.0092 ms
+================================================
+  PRO DURATION (ms)
+================================================
+  Min : 4.9631 ms
+  Max : 10.0438 ms
+  Avg : 5.1938 ms
+  Std : 0.4062 ms
+================================================
+  WB DURATION (ms)
+================================================
+  Min : 8.1286 ms
+  Max : 8.7924 ms
+  Avg : 8.2619 ms
+  Std : 0.1034 ms
+================================================
+  ACQ JITTER  (nominal period = 200.00 ms)
+================================================
+  Max |jitter| : 0.0561 ms
+  Avg |jitter| : 0.0026 ms
+  Max |drift|  : 0.0499 ms
+  Avg |drift|  : 0.0049 ms
+================================================
+  PRO JITTER  (nominal period = 1000.00 ms)
+================================================
+  Max |jitter| : 0.0519 ms
+  Avg |jitter| : 0.0046 ms
+  Max |drift|  : 0.0616 ms
+  Avg |drift|  : 0.0057 ms
+================================================
+
+FPS plot saved to 'graphs_one_hz_log/fps_performance.png'
+Stage duration plot saved to 'graphs_one_hz_log/execution_times.png'
+Jitter plot saved to 'graphs_one_hz_log/jitter.png'
+Drift plot saved to 'graphs_one_hz_log/drift.png'
